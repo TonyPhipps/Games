@@ -1,5 +1,5 @@
 # Underworld Breach
-[[Underworld Breach]]
+- [[Underworld Breach]]
 - Make Mana
   - [[Lion's Eye Diamond]]
   - [[Lotus Petal]]
@@ -10,6 +10,7 @@
   - [[Wheel of Fortune]]
   - [[Windfall]]
 
-[[Dualcaster Mage]]
+# Dualcaster Mage
+- [[Dualcaster Mage]]
 
 
