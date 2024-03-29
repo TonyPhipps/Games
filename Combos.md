@@ -43,21 +43,19 @@ More: https://edhrec.com/combos/dualcaster-mage
 ## [[Jeska's Will]] + [[Soulfire Grand Master]]
 
 <details> <summary>Explanation</summary>
-Results:
 
+Results:
 - Optionally exile your library
 - Infinite magecraft triggers
 - Infinite red mana
 - Infinite storm count
 
 Prerequisites:
-
 - [[Jeska's Will]] in hand
 - [[Soulfire Grand Master]] on the battlefield.
 - An opponent has at least eight cards in hand available for infinite mana.
 
 Steps:
-
 1. Activate [[Soulfire Grand Master's]] ability for 2U/R U/R.
 2. Cast [[Jeska's Will]] by for 2R, targeting a player with at least 7 cards in hand.
 3. Return [[Jeska's Will]] to your hand.
@@ -72,3 +70,25 @@ More: https://edh-combos.com/combo/22194/
 - [[Jeska's Will]]
 - [[Soulfire Grand Master]]
 
+## [[Soltari Guerrillas]] + [[Willbreaker]]
+
+<details> <summary>Explanation</summary>
+
+Results:
+- Gain control of all creatures
+- Gain control of all creatures that enter the battlefield under an opponent's control
+  
+Prerequisites:
+- Soltari Guerrillas on the battlefield
+- Willbreaker on the battlefield
+  
+Steps:
+
+1. Activate Soltari Guerrillas targeting any creature an opponent controls
+2. Willbreaker triggers, causing you to gain control of that creature for as long as you control Willbreaker
+3. Repeat from step 1
+
+</details>
+
+- [[Soltari Guerrillas]]
+- [[Willbreaker]]
