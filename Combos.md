@@ -40,9 +40,7 @@ More: https://edhrec.com/combos/dualcaster-mage
   - [[Baral's Expertise]] Bonus: Return all opponents artifacts and creatures to their hands. Not necessary to have a creature on board first.
   - [[Irenicus's Vile Duplication]] Bonus: Adds flying to copies.
 
-## [[Jeska's Will]] + [[Soulfire Grand Master]]
-
-<details> <summary>Explanation</summary>
+## [[Jeska's Will]]
 
 Results:
 - Optionally exile your library
@@ -50,25 +48,30 @@ Results:
 - Infinite red mana
 - Infinite storm count
 
+<details> <summary>Explanation</summary>
+
 Prerequisites:
 - [[Jeska's Will]] in hand
 - [[Soulfire Grand Master]] on the battlefield.
 - An opponent has at least eight cards in hand available for infinite mana.
 
 Steps:
-1. Activate [[Soulfire Grand Master's]] ability for 2U/R U/R.
+1. If applicable, cast or use the ability that will copy Jeska's will.
 2. Cast [[Jeska's Will]] by for 2R, targeting a player with at least 7 cards in hand.
-3. Return [[Jeska's Will]] to your hand.
-4. Repeat from step 1
-If an opponent has eight or more cards in their hand, this combo nets infinite red mana
-If you control a commander, you may choose both of Jeska's WIll's modes to exile your library
+3. If applicable, hold priority and cast or use the ability that can copy Jeska's will from the stack.
+4. Return [[Jeska's Will]] to your hand.
+5. Repeat from step 1
+If an opponent has eight or more cards in their hand, this combo nets infinite red mana.
+If you control a commander, you may choose both of Jeska's Will's modes to exile your library.
 
 More: https://edh-combos.com/combo/22194/
 
 </details>
 
 - [[Jeska's Will]]
-- [[Soulfire Grand Master]]
+- a card that reapeatedly copies Jeska's Will
+  - [[Soulfire Grand Master]]
+  - [[Reiterate]]
 
 ## [[Soltari Guerrillas]] + [[Willbreaker]]
 
