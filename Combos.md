@@ -27,6 +27,7 @@ Results
 - Infinite magecraft triggers.
 - Infinite storm count.
 
+More: https://edhrec.com/combos/dualcaster-mage
 </details>
 
 - [[Dualcaster Mage]]
@@ -39,5 +40,35 @@ Results
   - [[Baral's Expertise]] Bonus: Return all opponents artifacts and creatures to their hands. Not necessary to have a creature on board first.
   - [[Irenicus's Vile Duplication]] Bonus: Adds flying to copies.
 
-More
-- https://edhrec.com/combos/dualcaster-mage
+## [[Jeska's Will]] + [[Soulfire Grand Master]]
+
+<details> <summary>Explanation</summary>
+Results:
+
+- Optionally exile your library
+- Infinite magecraft triggers
+- Infinite red mana
+- Infinite storm count
+
+Prerequisites:
+
+- [[Jeska's Will]] in hand
+- [[Soulfire Grand Master]] on the battlefield.
+- An opponent has at least eight cards in hand available for infinite mana.
+
+Steps:
+
+1. Activate [[Soulfire Grand Master's]] ability for 2U/R U/R.
+2. Cast [[Jeska's Will]] by for 2R, targeting a player with at least 7 cards in hand.
+3. Return [[Jeska's Will]] to your hand.
+4. Repeat from step 1
+If an opponent has eight or more cards in their hand, this combo nets infinite red mana
+If you control a commander, you may choose both of Jeska's WIll's modes to exile your library
+
+More: https://edh-combos.com/combo/22194/
+
+</details>
+
+- [[Jeska's Will]]
+- [[Soulfire Grand Master]]
+
