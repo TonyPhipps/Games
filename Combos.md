@@ -3,6 +3,7 @@
 ## Dualcaster Mage
 
 <details> <summary>Explanation</summary>
+  
 1. Cast a key Instant or Sorcery: This spell creates the foundation for the combo. It often involves creating token copies or manipulating permanents entering the battlefield.
 2. Play [[Dualcaster Mage]]: As [[Dualcaster Mage]] enters the battlefield, its triggered ability allows you to copy the spell you just cast.
 3. Target the Copy on [[Dualcaster Mage]]: By targeting the copy spell on [[Dualcaster Mage]] itself, you essentially create a loop. The copy resolves, putting another [[Dualcaster Mage]] onto the battlefield.
