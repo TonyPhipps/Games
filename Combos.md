@@ -9,6 +9,7 @@
   - [[Brain Freeze]]
   - [[Wheel of Fortune]]
   - [[Windfall]]
+
 [[Dualcaster Mage]]
 
-[[]]
+
