@@ -27,5 +27,7 @@ Results
 </details>
 
 - [[Dualcaster Mage]]
-
+- One card that copies a creature
+  - [[Twinflame]]
+  - 
 
