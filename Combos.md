@@ -32,5 +32,12 @@ Results
 - [[Dualcaster Mage]]
 - One card that copies a creature
   - [[Twinflame]]
-  - 
+  - [[Heat Shimmer]]
+  - [[Ghostly Flicker]] Bonus: adds Infinite Mana when targeting land.
+  - [[Saw in Half]] Bonus: adds Infinite Deaths, Infinite LTB triggers.
+  - [[Sublime Epiphany]] Bonus: Return all opponents permanents to their hands. Infinite card draw on target player (wincon).
+  - [[Baral's Expertise]] Bonus: Return all opponents artifacts and creatures to their hands. Not necessary to have a creature on board first.
+  - [[Irenicus's Vile Duplication]] Bonus: Adds flying to copies.
 
+More
+- https://edhrec.com/combos/dualcaster-mage
