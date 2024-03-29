@@ -9,7 +9,7 @@ Results
 - Infinite magecraft triggers.
 - Infinite storm count.
 
-<details> <summary>Explanation</summary>
+<details> <summary>Prerequisites and Steps</summary>
   
 Prerequisites
 
@@ -49,7 +49,7 @@ Results:
 - Infinite red mana
 - Infinite storm count
 
-<details> <summary>Explanation</summary>
+<details> <summary>Prerequisites and Steps</summary>
 
 Prerequisites:
 - [[Jeska's Will]] in hand
@@ -80,7 +80,7 @@ Results:
 - Gain control of all creatures
 - Gain control of all creatures that enter the battlefield under an opponent's control
 
-<details> <summary>Explanation</summary>
+<details> <summary>Prerequisites and Steps</summary>
   
 Prerequisites:
 - Soltari Guerrillas on the battlefield
