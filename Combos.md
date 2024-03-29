@@ -6,23 +6,26 @@
   
 Prerequisites
 
-- Dualcaster Mage and Twinflame in hand.
 - At least one creature on the battlefield.
-- 2RRR available.
+- Dualcaster Mage in hand.
+- A spell that can copy [[Dualcaster Mage]].
+- Mana available to cast both cards once.
 
 Steps
 
-1. Cast a spell that can copy target creature.
+1. Cast a spell that can copy [[Dualcaster Mage]].
 2. Holding priority, cast [[Dualcaster Mage]] by paying 1RR.
-3. Dualcaster Mage enters the battlefield, copying the spell from step 1.
-4. Resolve the copied spell, creating a token copy of Dualcaster Mage.
-5. Repeat from step 3.
+3. [[Dualcaster Mage]] enters the battlefield.
+4. Using [[Dualcaster Mage]]'s ETB trigger, target the spell from step 1.
+5. Resolve the copied spell, targeting and creating a token copy of [[Dualcaster Mage]].
+7. Repeat from step 3.
 
 Results
 
 - Infinite creature tokens with haste.
 - Infinite ETB.
 - Infinite magecraft triggers.
+- Infinite storm count.
 
 </details>
 
