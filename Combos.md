@@ -28,6 +28,7 @@ Results
 - Infinite storm count.
 
 More: https://edhrec.com/combos/dualcaster-mage
+
 </details>
 
 - [[Dualcaster Mage]]
