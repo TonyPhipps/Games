@@ -2,6 +2,13 @@
 
 ## Dualcaster Mage
 
+Results
+
+- Infinite creature tokens with haste.
+- Infinite ETB.
+- Infinite magecraft triggers.
+- Infinite storm count.
+
 <details> <summary>Explanation</summary>
   
 Prerequisites
@@ -19,13 +26,6 @@ Steps
 4. Using [[Dualcaster Mage]]'s ETB trigger, target the spell from step 1.
 5. Resolve the copied spell, targeting and creating a token copy of [[Dualcaster Mage]].
 7. Repeat from step 3.
-
-Results
-
-- Infinite creature tokens with haste.
-- Infinite ETB.
-- Infinite magecraft triggers.
-- Infinite storm count.
 
 More: https://edhrec.com/combos/dualcaster-mage
 
@@ -76,11 +76,11 @@ More: https://edh-combos.com/combo/22194/
 
 ## [[Soltari Guerrillas]] + [[Willbreaker]]
 
-<details> <summary>Explanation</summary>
-
 Results:
 - Gain control of all creatures
 - Gain control of all creatures that enter the battlefield under an opponent's control
+
+<details> <summary>Explanation</summary>
   
 Prerequisites:
 - Soltari Guerrillas on the battlefield
