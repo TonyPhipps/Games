@@ -1,6 +1,6 @@
-Base: https://thepaupercube.com
-Base: https://docs.google.com/spreadsheets/d/12iQhC4bHqFW7hEWxPBjyC8yBDehFZ0_4DkqzyA8EL3o/edit#gid=0
-Base: https://cubecobra.com/cube/overview/thepaupercube
+- Base: https://thepaupercube.com
+- Base: https://docs.google.com/spreadsheets/d/12iQhC4bHqFW7hEWxPBjyC8yBDehFZ0_4DkqzyA8EL3o/edit#gid=0
+- Base: https://cubecobra.com/cube/overview/thepaupercube
 
 # Rules and How to Play
 - Assuming 8 players, each player receives 3 booster packs containing 15 cards.
