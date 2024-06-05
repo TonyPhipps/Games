@@ -1,6 +1,6 @@
-- Base: https://thepaupercube.com
-- Base: https://docs.google.com/spreadsheets/d/12iQhC4bHqFW7hEWxPBjyC8yBDehFZ0_4DkqzyA8EL3o/edit#gid=0
-- Base: https://cubecobra.com/cube/overview/thepaupercube
+Base: https://thepaupercube.com
+Base: https://docs.google.com/spreadsheets/d/12iQhC4bHqFW7hEWxPBjyC8yBDehFZ0_4DkqzyA8EL3o/edit#gid=0
+Base: https://cubecobra.com/cube/overview/thepaupercube
 
 # Rules and How to Play
 - Assuming 8 players, each player receives 3 booster packs containing 15 cards.
@@ -79,9 +79,12 @@ From each monocolored pile, move cards to the Everything Else pile until it cont
 - Green (36 cards)
 - Everything Else (180 cards)
 
-The Everything Else pile now has some cards from every section of the cube. Shuffle the Everything Else pile using whatever method you're comfortable with.
+The Everything Else pile now has some cards from every section of the cube. 
 
 #### Step 4
+Shuffle the Everything Else pile.
+
+#### Step 5
 From the Everything Else pile, distribute cards into each monocolored pile. Once you're done, each monocolored pile should contain 20% of your total count.
 
 - White+ (72)
@@ -92,10 +95,10 @@ From the Everything Else pile, distribute cards into each monocolored pile. Once
 
 The + sign indicates that each pile is now comprised of half its original color and half unknown.
 
-#### Step 5
+#### Step 6
 Shuffle each pile color+ pile.
 
-#### Step 6
+#### Step 7
 Split each color+ pile into n/15 "pack piles" (where n is your total card count). This results in each pack using 3 cards from each pile.
 
 Give each pack a quick shuffle to remove the possibility of a pattern.
