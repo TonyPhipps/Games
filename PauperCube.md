@@ -52,15 +52,17 @@
 Novel Method for Shuffling a Cube
 https://www.reddit.com/r/mtgcube/s/oBquUy5x98
 
+NOTE: Card counts below represent 360/450 card cubes.
+
 #### Step 1
 Sort your cube and separate it into sections by color. Make six piles: one for each monocolor and a sixth for everything else.
 
-- White (48 cards)
-- Blue (48 cards)
-- Black (48 cards)
-- Red (48 cards)
-- Green (48 cards)
-- Multicolor/Hybrid/Colorless/Land (120 cards)
+- White (48/68 cards)
+- Blue (48/68 cards)
+- Black (48/68 cards)
+- Red (48/68 cards)
+- Green (48/68 cards)
+- Multicolor/Colorless (120/110 cards)
 
 (Henceforth we'll call that last pile the "Everything Else pile".)
 
@@ -72,12 +74,12 @@ Added benefit: I like to sort my cube between drafts anyway, to make sure that n
 #### Step 3
 From each monocolored pile, move cards to the Everything Else pile until it contains 50% of your total count (about 25% out of each monocolored pile). Each monocolored pile will contain 10% of your total count.
 
-- White (36 cards)
-- Blue (36 cards)
-- Black (36 cards)
-- Red (36 cards)
-- Green (36 cards)
-- Everything Else (180 cards)
+- White (36/45 cards)
+- Blue (36/45 cards)
+- Black (36/45 cards)
+- Red (36/45 cards)
+- Green (36/45 cards)
+- Everything Else (180/225 cards)
 
 The Everything Else pile now has some cards from every section of the cube. 
 
@@ -87,11 +89,11 @@ Shuffle the Everything Else pile.
 #### Step 5
 From the Everything Else pile, distribute cards into each monocolored pile. Once you're done, each monocolored pile should contain 20% of your total count.
 
-- White+ (72)
-- Blue+ (72)
-- Black+ (72)
-- Red+ (72)
-- Green+ (72)
+- White+ (72/90)
+- Blue+ (72/90)
+- Black+ (72/90)
+- Red+ (72/90)
+- Green+ (72/90)
 
 The + sign indicates that each pile is now comprised of half its original color and half unknown.
 
