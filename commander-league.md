@@ -1,4 +1,4 @@
-Sample points
+Sample Objectives
 - Red Line – Play a commander that has red in its color identity.
 - Dungeon Dynamite- Complete a Dungeon.
 - Too Many Options – End your Turn with 10 or more cards in your hand.
