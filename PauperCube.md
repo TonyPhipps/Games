@@ -15,6 +15,8 @@ With 10 Players (see below table for fewer players)
 - Play with the deck you just built! A fun way to play is a tournament where each matchup winner is determined by best 2 of 3 games.
 
 ### Modifications for Fewer Players
+For the easiest approach, just draft 3 packs of 15 and lose visibility of some of the cards in the cube.
+
 It's rare to actually get 10 people to play. In order to expose as many cards as possible, I recommend these modifications.
 
 | Cards | Players | Packs/Player | Cards/Pack | Cards Kept | How It Looks in Practice                                 |
@@ -84,33 +86,33 @@ Added benefit: I like to sort my cube between drafts anyway, to make sure that n
 #### Step 3 - Color Piles Give 50%
 From each monocolored pile, move cards to the Everything Else pile until it contains 50% of your total count (about 25% out of each monocolored pile). Each monocolored pile will contain 10% of your total count.
 
-- White (36/45 cards)
-- Blue (36/45 cards)
-- Black (36/45 cards)
-- Red (36/45 cards)
-- Green (36/45 cards)
-- Everything Else (180/225 cards)
+- White (45 cards)
+- Blue (45 cards)
+- Black (45 cards)
+- Red (45 cards)
+- Green (45 cards)
+- Everything Else (225 cards)
 
 The Everything Else pile now has some cards from every section of the cube. 
 
-#### Step 4 - Shuffle Big Pile
+#### Step 4 - Shuffle Everything Else Pile
 Shuffle the Everything Else pile.
 
-#### Step 5 - Disperse Big Pile
+#### Step 5 - Disperse Everything Else Back into Color Piles
 From the Everything Else pile, distribute cards into each monocolored pile. Once you're done, each monocolored pile should contain 20% of your total count.
 
-- White+ (72/90)
-- Blue+ (72/90)
-- Black+ (72/90)
-- Red+ (72/90)
-- Green+ (72/90)
+- White+ (90)
+- Blue+ (90)
+- Black+ (90)
+- Red+ (90)
+- Green+ (90)
 
 The + sign indicates that each pile is now comprised of half its original color and half unknown.
 
-#### Step 6 - Shuffle
+#### Step 6 - Shuffle Color Piles
 Shuffle each pile color+ pile.
 
-#### Step 7 - Split into 15c Packs
+#### Step 7 - Split Color Piles into 15c Packs (3 from each)
 Split each color+ pile into n/15 "pack piles" (where n is your total card count). This results in each pack using 3 cards from each pile.
 
 Give each pack a quick shuffle to remove the possibility of a pattern.
