@@ -3,17 +3,27 @@
 - Base: https://cubecobra.com/cube/overview/thepaupercube
 
 # Rules and How to Play
-- Assuming 8 players, each player receives 3 booster packs containing 15 cards.
-  - If there are 4 players, each player receives 6 boosters of 15, and each player sets aside the last card of each pack ("burns" the last card).
-  - If there are 6 players, each player receives 6 boosters of 15, and each player sets aside the last card of every other pack ("burns" the last card).
-- Each player opens one of these booster packs and looks through the 15 cards.
-- Players simultaneously choose one card from their booster, and pass the remaining cards face-down to the player to their left.
-- Players repeatedly choose a card and pass the rest until there's no cards left in the first round of packs.
-- Repeat this process again for booster pack #2 but players now pass remaining cards to the right.
-- Repeat this process again for booster pack #3 but players now pass remaining cards to the left.
+With 10 Players (see below table for fewer players)
+- Each player will receive 3 booster packs containing 15 cards.
+- Each player opens one of these booster packs and looks through the 15 cards. This starts a round.
+  - Players simultaneously choose one card from their booster and pass the remaining cards face-down to the player to their left.
+  - Players repeatedly choose a card and pass the rest until there's no cards left in the first round of packs.
+- Repeat this process again for booster pack #2 (Round 2) but players now pass remaining cards to the right.
+- Repeat this process again for booster pack #3 (Round 3) but players now pass remaining cards to the left.
 - With the 45 cards you have "drafted", and adding as many basic lands as you like (Forest, Island etc.), assemble a deck of at least 40 cards, with any remaining cards forming your sideboard.
   - Usually 15-18 creatures, 5-8 non creatures, and ~17 lands.
 - Play with the deck you just built! A fun way to play is a tournament where each matchup winner is determined by best 2 of 3 games.
+
+### Modifications for Fewer Players
+It's rare to actually get 10 people to play. In order to expose as many cards as possible, I recommend these modifications.
+
+| Cards | Players | Packs/Player | Cards/Pack | Cards Kept | How It Looks in Practice                                 |
+| ----- | ------- | ------------ | ---------- | ---------- | -------------------------------------------------------- |
+| 450   | 10      | 3            | 15         | 45         | Same as in Store                                         |
+| 448   | 8       | 4            | 14         | 48         | Randomly remove 2 cards; Burn Last 2 Per Pack            |
+| 450   | 6       | 5            | 15         | 50         | Burn Last 5 Cards Per Pack -OR- Pick 1 pass, Pick 1 Burn |
+| 448   | 4       | 8            | 14         | 56         | Randomly remove 2 cards; Pick 1 Burn 1                   |
+
 
 # Card Outline
 - [[symbol:w]] Aggro White Weenie
@@ -54,7 +64,7 @@ https://www.reddit.com/r/mtgcube/s/oBquUy5x98
 
 NOTE: Card counts below represent 360/450 card cubes.
 
-#### Step 1
+#### Step 1 - Color Piles
 Sort your cube and separate it into sections by color. Make six piles: one for each monocolor and a sixth for everything else.
 
 - White (48/68 cards)
@@ -66,12 +76,12 @@ Sort your cube and separate it into sections by color. Make six piles: one for e
 
 (Henceforth we'll call that last pile the "Everything Else pile".)
 
-#### Step 2
+#### Step 2 - Shuffle
 Shuffle each monocolored pile using whatever method you're comfortable with. No need to shuffle the Everything Else pile yet.
 
 Added benefit: I like to sort my cube between drafts anyway, to make sure that nothing is missing.
 
-#### Step 3
+#### Step 3 - Color Piles Give 50%
 From each monocolored pile, move cards to the Everything Else pile until it contains 50% of your total count (about 25% out of each monocolored pile). Each monocolored pile will contain 10% of your total count.
 
 - White (36/45 cards)
@@ -83,10 +93,10 @@ From each monocolored pile, move cards to the Everything Else pile until it cont
 
 The Everything Else pile now has some cards from every section of the cube. 
 
-#### Step 4
+#### Step 4 - Shuffle Big Pile
 Shuffle the Everything Else pile.
 
-#### Step 5
+#### Step 5 - Disperse Big Pile
 From the Everything Else pile, distribute cards into each monocolored pile. Once you're done, each monocolored pile should contain 20% of your total count.
 
 - White+ (72/90)
@@ -97,10 +107,10 @@ From the Everything Else pile, distribute cards into each monocolored pile. Once
 
 The + sign indicates that each pile is now comprised of half its original color and half unknown.
 
-#### Step 6
+#### Step 6 - Shuffle
 Shuffle each pile color+ pile.
 
-#### Step 7
+#### Step 7 - Split into 15c Packs
 Split each color+ pile into n/15 "pack piles" (where n is your total card count). This results in each pack using 3 cards from each pile.
 
 Give each pack a quick shuffle to remove the possibility of a pattern.
