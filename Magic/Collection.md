@@ -19,7 +19,7 @@
 - Cards ever used in a deck are left in their inner sleeves
 
 # Thinning
-Scryfall for cards under .10c are thinned out. Assuming the above sorting methods are used, the scry search below will help thin out the Extra Cards boxes.
+Commons worth under .10c are thinned out (TCG Market price). Assuming the above sorting methods are used, the scry search below will help thin out the Extra Cards boxes.
 
 ```
 usd>=.10 r:c id:w t:creature name:/^A/
