@@ -19,7 +19,9 @@
 - Cards ever used in a deck are left in their inner sleeves
 
 # Thinning
-Commons worth under .10c are thinned out (TCG Market price). 
+My average $100 budget deck has 0-3 cards worth under 0.10c USD.
+
+Cards worth under .10c (TCG Market price) are thinned out.
 
 The Scryfall search below will help identify keepers.
 
