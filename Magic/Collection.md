@@ -22,11 +22,11 @@
 Scryfall for cards under .10c are thinned out. Assuming the above sorting methods are used, the scry search below will help thin out the Extra Cards boxes.
 
 ```
-usd>.10 r:c id:w t:creature name:/^A/
+usd>=.10 r:c id:w t:creature name:/^A/
 ```
 
 This search does the following
-- ```usd>.10``` cards over 10c
+- ```usd>=.10``` cards worth 10c and above
 - ```r:c``` cards with rarity of common (c, u, r, m)
 - ```id:w``` cards with identity WHITE (wubrgc)
 - ```t:creature``` cards with type creature (creature, instant, sorcery, enchantment, artifact, planeswalker, battle)
