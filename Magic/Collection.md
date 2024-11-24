@@ -21,15 +21,16 @@
 # Thinning
 My average $100 budget deck has 0-3 cards worth under 0.10c USD.
 
-Cards worth under .10c (TCG Market price) are thinned out.
+Cards worth under .10c (TCG Market price) are thinned out. This reduces my "extra cards" by about 50%.
 
 The Scryfall search below will help identify keepers.
 
 ```
-usd>=.10 r:c id:w t:creature name:/^A/
+usd>=.10 r:c id:w t:creature name:/^a/
+usd>=.10 (r:u or r:r or r:m) id:w t:creature name:/^a/
 ```
 
-This search does the following
+These searches do the following
 - ```usd>=.10``` cards worth 10c and above
 - ```r:c``` cards with rarity of common (c, u, r, m)
 - ```id:w``` cards with identity WHITE (wubrgc)
