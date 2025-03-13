@@ -42,6 +42,7 @@ It is recommended that you create a tag for each category and use them during de
 - **Interaction** (includes single removal, counterspells)
 - **Wipes** (includes board wipes, single-sided wipes, selective wipes)
 - **Draw** (Includes Card Advantage)
+- **Selection** (Card selection, like Scry or Surveil)
 - **Ramp** (Includes Mana Advantage)
 - **Graveyard** Hate (anything that exiles one or more cards from graveyards)
 - **Protection** (anything that protects your commander or any other key elements)
@@ -114,6 +115,37 @@ In this section I'll list more specifics in land types you should include based 
 - 0-5 Utility Lands
 - 3 Original Dual Lands
 
+##### 3 Color Budget
+    - 3 Pain Lands 
+      - (Adarkar Wastes, Underground River, Sulfurous Springs, Karplusan Forest, Brushland, Caves of Koilos, Shivan Reef, Llanowar Wastes, Battlefield Forge, Yavimaya Coast)
+    - 3 Kaldheim Snow Dual Lands 
+      - (Glacial Floodplain, Ice Tunnel, Sulfurous Mire, Highland Forest, Arctic Treeline, Snowfield Sinkhole, Volatile Fjord, Woodland Chasm, Alpine Meadow, Rimewood Falls)
+    - 2 Battle Lands 
+      - (Prairie Stream, Sunken Hollow. Smoldering Marsh, Cinder Glade, Canopy Vista)
+    - 3 Reveal Lands 
+      - (Port Town, Choked Estuary, Foreboding Ruins, Game Trail, Fortified Village, Shineshadow Snarl, Frostboil Snarl, Necroblossom Snarl, Furycalm Snarl, Vineglimmer Snarl)
+    - Check Lands 
+      - (Glacial Fortress, Drowned Catacomb, Dragonskull Summit, Rootbound Crag, Sunpetal Grove, Isolated Chapel, Sulfur Falls, Woodland Cemetery, Clifftop Retreat, Hinterland Harbor)
+    - 3 Land-Type Tap Lands 
+      - (Idyllic Beachfront, Contaminated Aquifer, Geothermal Bog, Wooded Ridgeline, Radiant Grove, Sunlit Marsh, Molten Tributary, Haunted Mire, Sacred Peaks, Tangled Islet)
+    - 2 Dual-colored Cycling Lands 
+      - (Irrigated Farmland, Fetid Pools, Canyon Slough, Sheltered Thicket, Scattered Groves)
+    - 0-3 MH3 Mechanic Lands 
+      - (Monumental Henge, Archway of Innovation, Spymaster's Vault, Arena of Glory, Shifting Woodland)
+    - 3 Filter Lands 
+      - (Skycloud Expanse, Darkwater Catacombs, Shadowblood Ridge, Mossfire Valley, Sungrass Prairie, Desolate Mire, Ferrous Lake, Viridescent Bog, Sunscorched Divide, Overflowing Basin)
+    - 1 Tri-Color Tap Land 
+      - (Seaside Citadel, Arcane Sanctum, Crumbling Necropolis, Savage Lands, Jungle Shrine, Nomad Outpost, Sandsteppe Citadel, Opulent Palace, Frontier Bivouac, Mystic Monastery)
+    - 1 Modern Horizons Landscape Land
+      - (Contaminated Landscape, Seething Landscape, Twisted Landscape, Sheltering Landscape, Tranquil Landscape, Shattered Landscape, Bountiful Landscape, Deceptive Landscape, Perilous Landscape, Foreboding Landscape)
+    - 3 Vivid Lands
+      - (Vivid Meadow, Vivid Creek, Vivid Marsh, Vivid Crag, Vivid Grove)
+    - Ash Barrens
+    - Command Tower
+    - Exotic Orchard
+    - Rogue's Passage
+    - 
+
 #### 2 Color
 - 13 or fewer basic lands
 - 7-12 Utility Lands
@@ -144,21 +176,25 @@ In this section I'll list more specifics in land types you should include based 
 - 3-4 Waste Lands
 - 30+ Utility Lands
 
+
 ##### Resources
-- https://mtg.fandom.com/wiki/Dual_land
-- https://mtg.fandom.com/wiki/Fetch_land
+- https://mtg.fandom.com/wiki/Battle_land
+- https://mtg.fandom.com/wiki/Bond_land
+- https://mtg.fandom.com/wiki/Bounce_land
 - https://mtg.fandom.com/wiki/Check_land
 - https://mtg.fandom.com/wiki/Cycling_land
-- https://mtg.fandom.com/wiki/Shock_land
-- https://mtg.fandom.com/wiki/Bond_land
-- https://mtg.fandom.com/wiki/Filter_land
-- https://mtg.fandom.com/wiki/Pathway_land
-- https://mtg.fandom.com/wiki/Scry_land
-- https://mtg.fandom.com/wiki/Pain_land
+- https://mtg.fandom.com/wiki/Depletion_land
+- https://mtg.fandom.com/wiki/Dual_land
 - https://mtg.fandom.com/wiki/Fast_land
+- https://mtg.fandom.com/wiki/Fetch_land
+- https://mtg.fandom.com/wiki/Filter_land
+- https://mtg.fandom.com/wiki/Pain_land
+- https://mtg.fandom.com/wiki/Pathway_land
+- https://mtg.fandom.com/wiki/Reveal_land
+- https://mtg.fandom.com/wiki/Scry_land
+- https://mtg.fandom.com/wiki/Shock_land
 - https://mtg.fandom.com/wiki/Tapland
 - https://mtg.fandom.com/wiki/Triple_land
-- https://mtg.fandom.com/wiki/Bounce_land
 - https://www.youtube.com/watch?v=gOEnIFsmjV4
 
 ## Cutting Cards
@@ -188,10 +224,9 @@ Is it worth playing the card if it makes you archenemy out the gate or when you 
 - Cards that generally reduce the ability of a player to enjoy their own deck
 - Control a Player for a turn
 - Stealing permaments (especially if not until end of turn)
-- Milling
-- High quantity of counterspells
-- Land destruction
-- Focus on discarding from others' hands
+- Forcing others to discard
+- Forcing others to mill
+- Mass Land destruction
 
 ## Scryfall
 Use these searches to get a quick peek at each category of cards for your deck. Provided is a sort of manual approach and an approach using Scryfall's tags. Both are provided because sometimes cards are not tagged by the community properly, and you can find more interesting fits/synergies with keyword searches.
@@ -199,24 +234,25 @@ Use these searches to get a quick peek at each category of cards for your deck. 
 NOTE: Add "in:common" to filter for Pauper.
 
 Interaction (change id: to your commander color identity)
+- sort:edhrec game:paper f:commander id:wubrg (o:put OR o:destroy OR o:exile OR o:sacrifice OR o:return OR o:damage OR o:counter) (o:target OR o:each OR o:all) (o:player OR o:permanent OR o:creature OR o:enchantment OR o:artifact OR o:equipment OR o:battle OR o:graveyard OR o:spell OR o:card OR o:land OR o:hand) 
+- sort:edhrec game:paper f:commander id:wubrg otag:removal OR otag:counterspell
 
-- sort:edhrec f:commander id:wubrg (o:put OR o:destroy OR o:exile OR o:sacrifice OR o:return OR o:damage OR o:counter) (o:target OR o:each OR o:all) (o:player OR o:permanent OR o:creature OR o:enchantment OR o:artifact OR o:equipment OR o:battle OR o:graveyard OR o:spell OR o:card OR o:land OR o:hand) 
+Card Advantage
+- sort:edhrec game:paper f:commander id:wubrg (o:draw OR o:"you may play" OR o:cycling OR o:monarch OR (o:graveyard o:return o:hand) OR (o:graveyard o:return o:battlefield) OR (investigate) OR (o:cascade) OR (o:dredge) OR (o:"search your library") OR (o:learn) OR (o:exile o:library o:you o:play o:card))
+- sort:edhrec game:paper f:commander id:wubrg oracletag:card-advantage sort:edhrec
 
-- sort:edhrec f:commander id:wubrg otag:removal OR otag:counterspell
-
-Draw or card advantage
-
-  - sort:edhrec f:commander id:wubrg (o:draw OR o:"you may play" OR o:cycling OR o:monarch OR (o:graveyard o:return o:hand) OR (o:graveyard o:return o:battlefield))
-
-  - sort:edhrec f:commander id:wubrg oracletag:card-advantage sort:edhrec
+Card Selection
+- sort:edhrec game:paper f:commander id:wubrg (o:scry OR (o:surveil) OR (o:clash) OR (o:explore) OR (o:manifest) OR (o:foretell))
 
 Ramp
+-  sort:edhrec game:paper f:commander id:wubrg oracletag:ramp
 
--  sort:edhrec f:commander id:wubrg oracletag:ramp
+Protection
+- sort:edhrec game:paper f:commander id:wubrg (o:indestructable o:gains))
 
 Tribal Searches
--  sort:edhrec f:commander id:wubrg (oracle:changeling)
--  sort:edhrec f:commander id:wubrg (type:goblin OR type:elf)
-- sort:edhrec f:commander id:wubrg (oracle:goblin OR oracle:elf OR oracle:elves)
-- sort:edhrec f:commander id:wubrg (oracle:goblin OR oracle:elf OR oracle:elves) AND -(type:goblin OR type:elf)
-- sort:edhrec f:commander id:wubrg (oracle:"all creature types")
+- sort:edhrec game:paper f:commander id:wubrg (oracle:changeling)
+- sort:edhrec game:paper f:commander id:wubrg (type:goblin OR type:elf)
+- sort:edhrec game:paper f:commander id:wubrg (oracle:goblin OR oracle:elf OR oracle:elves)
+- sort:edhrec game:paper f:commander id:wubrg (oracle:goblin OR oracle:elf OR oracle:elves) AND -(type:goblin OR type:elf)
+- sort:edhrec game:paper f:commander id:wubrg (oracle:"all creature types")
