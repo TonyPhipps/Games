@@ -121,7 +121,7 @@ In this section I'll list more specifics in land types you should include based 
     - 3 Kaldheim Snow Dual Lands 
       - (Glacial Floodplain, Ice Tunnel, Sulfurous Mire, Highland Forest, Arctic Treeline, Snowfield Sinkhole, Volatile Fjord, Woodland Chasm, Alpine Meadow, Rimewood Falls)
     - 2 Battle Lands 
-      - (Prairie Stream, Sunken Hollow. Smoldering Marsh, Cinder Glade, Canopy Vista)
+      - (Prairie Stream, Sunken Hollow, Smoldering Marsh, Cinder Glade, Canopy Vista)
     - 3 Reveal Lands 
       - (Port Town, Choked Estuary, Foreboding Ruins, Game Trail, Fortified Village, Shineshadow Snarl, Frostboil Snarl, Necroblossom Snarl, Furycalm Snarl, Vineglimmer Snarl)
     - Check Lands 
@@ -140,6 +140,8 @@ In this section I'll list more specifics in land types you should include based 
       - (Contaminated Landscape, Seething Landscape, Twisted Landscape, Sheltering Landscape, Tranquil Landscape, Shattered Landscape, Bountiful Landscape, Deceptive Landscape, Perilous Landscape, Foreboding Landscape)
     - 3 Vivid Lands
       - (Vivid Meadow, Vivid Creek, Vivid Marsh, Vivid Crag, Vivid Grove)
+    - 0-3 Tainted Lands 
+      - (Tainted Field, Tainted Isle, Tainted Peak, Tainted Wood)
     - Ash Barrens
     - Command Tower
     - Exotic Orchard
