@@ -39,7 +39,7 @@ Play the deck a few times. Develop an idea of what tweaks it needs, then do it.
 ## Card Categories
 It is recommended that you create a tag for each category and use them during deck building, especially to find cards that fit into multiple categories. This lets you ensure you have a good idea of how many cards you have in each area. I recommend you have a non-zero number of all of these.
 
-- **Interaction** (includes single removal, counterspells)
+- **Interaction** (includes single removal, Counterspells)
 - **Wipes** (includes board wipes, single-sided wipes, selective wipes)
 - **Draw** (Includes Card Advantage)
 - **Selection** (Card selection, like Scry or Surveil)
@@ -108,7 +108,7 @@ In this section I'll list more specifics in land types you should include based 
 - 3 Bond/Crowd Lands
 - 3 Check/Buddy Lands
 - 1-3 Horizon Lands
-- 1 Triome / Hideout Land
+- 1 Tricycle Land (Triome)
 - 1-5 Rainbow Lands
 - 1 Trifetch Land
 - 1+ MDFC Lands (especially the mythics / bala gad recovery)
