@@ -151,7 +151,6 @@ In this section I'll list more specifics in land types you should include based 
   - (Vivid Meadow, Vivid Creek, Vivid Marsh, Vivid Crag, Vivid Grove)
 - 0-3 Tainted Lands 
   - (Tainted Field, Tainted Isle, Tainted Peak, Tainted Wood)
-- Ash Barrens
 - Command Tower
 - Exotic Orchard
 - Rogue's Passage
