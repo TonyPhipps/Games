@@ -103,50 +103,58 @@ In this section I'll list more specifics in land types you should include based 
 #### 3 Color
 - 4-10 Basic Lands
 - 3-9 Fetch Lands
+  - (Flooded Strand, Polluted Delta, Bloodstained Mire, Wooded Foothills, Windswept Heath, Marsh Flats, Scalding Tarn, Verdant Catacombs, Arid Mesa, Misty Rainforest)
 - 3 Shock Lands
+  - (Hallowed Fountain, Watery Grave, Blood Crypt, Stomping Ground, Temple Garden, Godless Shrine, Overgrown Tomb, Breeding Pool, Steam Vents, Sacred Foundry)
 - 3 Pain Lands
+  - (Adarkar Wastes, Underground River, Sulfurous Springs, Karplusan Forest, Brushland, Caves of Koilos, Shivan Reef, Llanowar Wastes, Battlefield Forge, Yavimaya Coast)
 - 3 Bond/Crowd Lands
+  - (Sea of Clouds, Morphic Pool, Luxury Suite, Spire Garden, Bountiful Promenade, Vault of Champions, Training Center, Undergrowth Stadium, Spectator Seating, Rejuvenating Springs)
 - 3 Check/Buddy Lands
+  - (Glacial Fortress, Drowned Catacomb, Dragonskull Summit, Rootbound Crag, Sunpetal Grove, Isolated Chapel, Sulfur Falls, Woodland Cemetery, Clifftop Retreat, Hinterland Harbor)
 - 1-3 Horizon Lands
+  - (Fiery Islet, Horizon Canopy, Nurturing Peatland, Silent Clearing, Sunbaked Canyon, Waterlogged Grove)
 - 1 Tricycle Land (Triome)
+  - (Savai Triome, Indatha Triome, Zagoth Triome, Ketria Triome, Raugrin Triome, Spara's Headquarters, Raffine's Tower, Xander's Lounge, Ziatora's Proving Ground, Jetmir's Garden)
 - 1-5 Rainbow Lands
+  - (City of Brass, Mana Confluence, etc) 
 - 1 Trifetch Land
-- 1+ MDFC Lands (especially the mythics / bala gad recovery)
+  - (Contaminated Landscape, Seething Landscape, Twisted Landscape, Sheltering Landscape, Tranquil Landscape, Shattered Landscape, Bountiful Landscape, Deceptive Landscape, Perilous Landscape, Foreboding Landscape)
+- 1+ MDFC Lands (especially the mythics / Bala Ged Recovery)
 - 0-5 Utility Lands
 - 3 Original Dual Lands
 
 ##### 3 Color Budget
-    - 3 Pain Lands 
-      - (Adarkar Wastes, Underground River, Sulfurous Springs, Karplusan Forest, Brushland, Caves of Koilos, Shivan Reef, Llanowar Wastes, Battlefield Forge, Yavimaya Coast)
-    - 3 Kaldheim Snow Dual Lands 
-      - (Glacial Floodplain, Ice Tunnel, Sulfurous Mire, Highland Forest, Arctic Treeline, Snowfield Sinkhole, Volatile Fjord, Woodland Chasm, Alpine Meadow, Rimewood Falls)
-    - 2 Battle Lands 
-      - (Prairie Stream, Sunken Hollow, Smoldering Marsh, Cinder Glade, Canopy Vista)
-    - 3 Reveal Lands 
-      - (Port Town, Choked Estuary, Foreboding Ruins, Game Trail, Fortified Village, Shineshadow Snarl, Frostboil Snarl, Necroblossom Snarl, Furycalm Snarl, Vineglimmer Snarl)
-    - Check Lands 
-      - (Glacial Fortress, Drowned Catacomb, Dragonskull Summit, Rootbound Crag, Sunpetal Grove, Isolated Chapel, Sulfur Falls, Woodland Cemetery, Clifftop Retreat, Hinterland Harbor)
-    - 3 Land-Type Tap Lands 
-      - (Idyllic Beachfront, Contaminated Aquifer, Geothermal Bog, Wooded Ridgeline, Radiant Grove, Sunlit Marsh, Molten Tributary, Haunted Mire, Sacred Peaks, Tangled Islet)
-    - 2 Dual-colored Cycling Lands 
-      - (Irrigated Farmland, Fetid Pools, Canyon Slough, Sheltered Thicket, Scattered Groves)
-    - 0-3 MH3 Mechanic Lands 
-      - (Monumental Henge, Archway of Innovation, Spymaster's Vault, Arena of Glory, Shifting Woodland)
-    - 3 Filter Lands 
-      - (Skycloud Expanse, Darkwater Catacombs, Shadowblood Ridge, Mossfire Valley, Sungrass Prairie, Desolate Mire, Ferrous Lake, Viridescent Bog, Sunscorched Divide, Overflowing Basin)
-    - 1 Tri-Color Tap Land 
-      - (Seaside Citadel, Arcane Sanctum, Crumbling Necropolis, Savage Lands, Jungle Shrine, Nomad Outpost, Sandsteppe Citadel, Opulent Palace, Frontier Bivouac, Mystic Monastery)
-    - 1 Modern Horizons Landscape Land
-      - (Contaminated Landscape, Seething Landscape, Twisted Landscape, Sheltering Landscape, Tranquil Landscape, Shattered Landscape, Bountiful Landscape, Deceptive Landscape, Perilous Landscape, Foreboding Landscape)
-    - 3 Vivid Lands
-      - (Vivid Meadow, Vivid Creek, Vivid Marsh, Vivid Crag, Vivid Grove)
-    - 0-3 Tainted Lands 
-      - (Tainted Field, Tainted Isle, Tainted Peak, Tainted Wood)
-    - Ash Barrens
-    - Command Tower
-    - Exotic Orchard
-    - Rogue's Passage
-    - 
+- 3 Pain Lands 
+  - (Adarkar Wastes, Underground River, Sulfurous Springs, Karplusan Forest, Brushland, Caves of Koilos, Shivan Reef, Llanowar Wastes, Battlefield Forge, Yavimaya Coast)
+- 3 Kaldheim Snow Dual Lands 
+  - (Glacial Floodplain, Ice Tunnel, Sulfurous Mire, Highland Forest, Arctic Treeline, Snowfield Sinkhole, Volatile Fjord, Woodland Chasm, Alpine Meadow, Rimewood Falls)
+- 2 Battle Lands 
+  - (Prairie Stream, Sunken Hollow, Smoldering Marsh, Cinder Glade, Canopy Vista)
+- 3 Reveal Lands 
+  - (Port Town, Choked Estuary, Foreboding Ruins, Game Trail, Fortified Village, Shineshadow Snarl, Frostboil Snarl, Necroblossom Snarl, Furycalm Snarl, Vineglimmer Snarl)
+- Check Lands 
+  - (Glacial Fortress, Drowned Catacomb, Dragonskull Summit, Rootbound Crag, Sunpetal Grove, Isolated Chapel, Sulfur Falls, Woodland Cemetery, Clifftop Retreat, Hinterland Harbor)
+- 3 Land-Type Tap Lands 
+  - (Idyllic Beachfront, Contaminated Aquifer, Geothermal Bog, Wooded Ridgeline, Radiant Grove, Sunlit Marsh, Molten Tributary, Haunted Mire, Sacred Peaks, Tangled Islet)
+- 2 Dual-colored Cycling Lands 
+  - (Irrigated Farmland, Fetid Pools, Canyon Slough, Sheltered Thicket, Scattered Groves)
+- 0-3 MH3 Mechanic Lands 
+  - (Monumental Henge, Archway of Innovation, Spymaster's Vault, Arena of Glory, Shifting Woodland)
+- 3 Filter Lands 
+  - (Skycloud Expanse, Darkwater Catacombs, Shadowblood Ridge, Mossfire Valley, Sungrass Prairie, Desolate Mire, Ferrous Lake, Viridescent Bog, Sunscorched Divide, Overflowing Basin)
+- 1 Tri-Color Tap Land 
+  - (Seaside Citadel, Arcane Sanctum, Crumbling Necropolis, Savage Lands, Jungle Shrine, Nomad Outpost, Sandsteppe Citadel, Opulent Palace, Frontier Bivouac, Mystic Monastery)
+- 1 Modern Horizons Landscape Land
+  - (Contaminated Landscape, Seething Landscape, Twisted Landscape, Sheltering Landscape, Tranquil Landscape, Shattered Landscape, Bountiful Landscape, Deceptive Landscape, Perilous Landscape, Foreboding Landscape)
+- 3 Vivid Lands
+  - (Vivid Meadow, Vivid Creek, Vivid Marsh, Vivid Crag, Vivid Grove)
+- 0-3 Tainted Lands 
+  - (Tainted Field, Tainted Isle, Tainted Peak, Tainted Wood)
+- Ash Barrens
+- Command Tower
+- Exotic Orchard
+- Rogue's Passage
 
 #### 2 Color
 - 13 or fewer basic lands
