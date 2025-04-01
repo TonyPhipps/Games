@@ -427,6 +427,17 @@ In this section I'll list more specifics in land types you should include based 
   - Blooming Marsh
   - Inspiring Vantage
   - Botanical Sanctum
+- Verge Land
+  - Floodfarm Verge
+  - Gloomlake Verge
+  - Blazemire Verge
+  - Thornspire Verge
+  - Hushwood Verge
+  - Bleachbone Verge
+  - Riverpyre Verge
+  - Sunbillow Verge
+  - Wastewood Verge
+  - Willowrush Verge
 
 #### 1 Color
 - ~18 Basic Lands
