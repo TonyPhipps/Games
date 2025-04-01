@@ -449,6 +449,7 @@ In this section I'll list more specifics in land types you should include based 
   - Canyon Slough
   - Sheltered Thicket
   - Scattered Groves
+- Ash Barren
 - MDFC Lands
   Agadeem's Awakening // Agadeem, the Undercrypt
   - Akoum Warrior // Akoum Teeth
