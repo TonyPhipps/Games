@@ -307,7 +307,7 @@ In this section I'll list more specifics in land types you should include based 
   - Vivid Marsh
   - Vivid Crag
   - Vivid Grove
-- 0-3 Tainted Lands 
+- 0-3 Tainted Lands
   - Tainted Field
   - Tainted Isle
   - Tainted Peak
@@ -321,35 +321,35 @@ In this section I'll list more specifics in land types you should include based 
 - 7-12 Utility Lands
 - 1-7 Fetch Lands
   - Flooded Strand
-	- Polluted Delta
-	- Bloodstained Mire
-	- Wooded Foothills
-	- Windswept Heath
-	- Marsh Flats
-	- Scalding Tarn
-	- Verdant Catacombs
-	- Arid Mesa
-	- Misty Rainforest
+  - Polluted Delta
+  - Bloodstained Mire
+  - Wooded Foothills
+  - Windswept Heath
+  - Marsh Flats
+  - Scalding Tarn
+  - Verdant Catacombs
+  - Arid Mesa
+  - Misty Rainforest
 - 3-6 MDFC Lands
   - Agadeem's Awakening
-	- Emeria's Call
+  - Emeria's Call
   - Sea Gate Restoration
-	- Shatterskull Smashing
-	- Turntimber Symbiosis
-	- Glasspool Mimic
-	- Valakut Awakening  
+  - Shatterskull Smashing
+  - Turntimber Symbiosis
+  - Glasspool Mimic
+  - Valakut Awakening  
 - Command Tower
 - 1 Crowd Land
   - Sea of Clouds
-	- Morphic Pool
-	- Luxury Suite
-	- Spire Garden
-	- Bountiful Promenade
-	- Vault of Champions
-	- Training Center
-	- Undergrowth Stadium
-	- Spectator Seating
-	- Rejuvenating Springs
+  - Morphic Pool
+  - Luxury Suite
+  - Spire Garden
+  - Bountiful Promenade
+  - Vault of Champions
+  - Training Center
+  - Undergrowth Stadium
+  - Spectator Seating
+  - Rejuvenating Springs
 - Filter Land
   - Skycloud Expanse
   - Darkwater Catacombs
@@ -374,15 +374,15 @@ In this section I'll list more specifics in land types you should include based 
   - Temple of Mystery
 - Pathway Land
   - Barkchannel Pathway
-	- Blightstep Pathway
-	- Branchloft Pathway
-	- Brightclimb Pathway
-	- Clearwater Pathway
-	- Cragcrown Pathway
-	- Darkbore Pathway
-	- Hengegate Pathway
-	- Needleverge Pathway
-	- Riverglide Pathway
+  - Blightstep Pathway
+  - Branchloft Pathway
+  - Brightclimb Pathway
+  - Clearwater Pathway
+  - Cragcrown Pathway
+  - Darkbore Pathway
+  - Hengegate Pathway
+  - Needleverge Pathway
+  - Riverglide Pathway
 - Horizon Land
   - Fiery Islet
   - Horizon Canopy
