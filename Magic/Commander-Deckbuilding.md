@@ -101,6 +101,9 @@ In this section I'll list more specifics in land types you should include based 
 - CUT some lands in the colors with smaller presence in deck.
 
 ### 3 Color
+- Command Tower
+- Exotic Orchard
+- Path of Ancestry
 - 4-10 Basic Lands
 - 3-9 Fetch Lands
   - Flooded Strand
@@ -178,7 +181,6 @@ In this section I'll list more specifics in land types you should include based 
 - 1-5 Rainbow Lands
   - City of Brass
   - Mana Confluence
-  - etc
 - 1 Trifetch Land
   - Contaminated Landscape
   - Seething Landscape
@@ -190,15 +192,14 @@ In this section I'll list more specifics in land types you should include based 
   - Deceptive Landscape
   - Perilous Landscape
   - Foreboding Landscape
-- Command Tower
-- Exotic Orchard
-- Path of Ancestry
 - 1+ MDFC Lands (especially the mythics / Bala Ged Recovery)
 - 0-5 Utility Lands
 - 3 Original Dual Lands
 
 #### 3 Color Budget
 - Whatever is cheap enough from 2 Color Casual, since this varies by color combo
+- Terramorphic Expanse
+- Evolving Wilds
 - 3 Kaldheim Snow Dual Lands 
   - Glacial Floodplain
   - Ice Tunnel
@@ -288,10 +289,6 @@ In this section I'll list more specifics in land types you should include based 
   - Tainted Isle
   - Tainted Peak
   - Tainted Wood
-- Command Tower
-- Exotic Orchard
-- Path of Ancestry
-- Rogue's Passage
 
 ### 2 Color Casual
 - 13 or fewer basic lands
