@@ -449,6 +449,67 @@ In this section I'll list more specifics in land types you should include based 
   - Canyon Slough
   - Sheltered Thicket
   - Scattered Groves
+- MDFC Lands
+  Agadeem's Awakening // Agadeem, the Undercrypt
+  - Akoum Warrior // Akoum Teeth
+  - Bala Ged Recovery // Bala Ged Sanctuary
+  - Barkchannel Pathway // Tidechannel Pathway
+  - Beyeen Veil // Beyeen Coast
+  - Blackbloom Rogue // Blackbloom Bog
+  - Blightstep Pathway // Searstep Pathway
+  - Bloodsoaked Insight // Sanguine Morass
+  - Boggart Trawler // Boggart Bog
+  - Branchloft Pathway // Boulderloft Pathway
+  - Bridgeworks Battle // Tanglespan Bridgeworks
+  - Brightclimb Pathway // Grimclimb Pathway
+  - Clearwater Pathway // Murkwater Pathway
+  - Cragcrown Pathway // Timbercrown Pathway
+  - Darkbore Pathway // Slitherbore Pathway
+  - Disciple of Freyalise // Garden of Freyalise
+  - Drowner of Truth // Drowned Jungle
+  - Emeria's Call // Emeria, Shattered Skyclave
+  - Fell the Profane // Fell Mire
+  - Glasspool Mimic // Glasspool Shore
+  - Glasswing Grace // Age-Graced Chapel
+  - Hagra Mauling // Hagra Broodpit
+  - Hengegate Pathway // Mistgate Pathway
+  - Hydroelectric Specimen // Hydroelectric Laboratory
+  - Jwari Disruption // Jwari Ruins
+  - Kabira Takedown // Kabira Plateau
+  - Kazandu Mammoth // Kazandu Valley
+  - Kazuul's Fury // Kazuul's Cliffs
+  - Khalni Ambush // Khalni Territory
+  - Legion Leadership // Legion Stronghold
+  - Makindi Stampede // Makindi Mesas
+  - Malakir Rebirth // Malakir Mire
+  - Needleverge Pathway // Pillarverge Pathway
+  - Ondu Inversion // Ondu Skyruins
+  - Pelakka Predation // Pelakka Caverns
+  - Pinnacle Monk // Mystic Peak
+  - Razorgrass Ambush // Razorgrass Field
+  - Revitalizing Repast // Old-Growth Grove
+  - Riverglide Pathway // Lavaglide Pathway
+  - Rush of Inspiration // Crackling Falls
+  - Sea Gate Restoration // Sea Gate, Reborn
+  - Sejiri Shelter // Sejiri Glacier
+  - Shatterskull Smashing // Shatterskull, the Hammer Pass
+  - Silundi Vision // Silundi Isle
+  - Sink into Stupor // Soporific Springs
+  - Skyclave Cleric // Skyclave Basilica
+  - Song-Mad Treachery // Song-Mad Ruins
+  - Spikefield Hazard // Spikefield Cave
+  - Strength of the Harvest // Haven of the Harvest
+  - Stump Stomp // Burnwillow Clearing
+  - Sundering Eruption // Volcanic Fissure
+  - Suppression Ray // Orderly Plaza
+  - Tangled Florahedron // Tangled Vale
+  - Turntimber Symbiosis // Turntimber, Serpentine Wood
+  - Umara Wizard // Umara Skyfalls
+  - Valakut Awakening // Valakut Stoneforge
+  - Vastwood Fortification // Vastwood Thicket
+  - Waterlogged Teachings // Inundated Archive
+  - Witch Enchanter // Witch-Blessed Meadow
+  - Zof Consumption // Zof Bloodbog
 
 ### 1 Color
 - ~18 Basic Lands
