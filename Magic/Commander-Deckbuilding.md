@@ -443,6 +443,12 @@ In this section I'll list more specifics in land types you should include based 
   - Smoldering Marsh
   - Cinder Glade
   - Canopy Vista
+- 2-Type Cycling Lands
+  - Irrigated Farmland
+  - Fetid Pools
+  - Canyon Slough
+  - Sheltered Thicket
+  - Scattered Groves
 
 ### 1 Color
 - ~18 Basic Lands
