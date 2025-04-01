@@ -320,17 +320,113 @@ In this section I'll list more specifics in land types you should include based 
 - 13 or fewer basic lands
 - 7-12 Utility Lands
 - 1-7 Fetch Lands
+  - Flooded Strand
+	- Polluted Delta
+	- Bloodstained Mire
+	- Wooded Foothills
+	- Windswept Heath
+	- Marsh Flats
+	- Scalding Tarn
+	- Verdant Catacombs
+	- Arid Mesa
+	- Misty Rainforest
 - 3-6 MDFC Lands
+  - Agadeem's Awakening
+	- Emeria's Call
+  - Sea Gate Restoration
+	- Shatterskull Smashing
+	- Turntimber Symbiosis
+	- Glasspool Mimic
+	- Valakut Awakening  
 - Command Tower
 - 1 Crowd Land
+  - Sea of Clouds
+	- Morphic Pool
+	- Luxury Suite
+	- Spire Garden
+	- Bountiful Promenade
+	- Vault of Champions
+	- Training Center
+	- Undergrowth Stadium
+	- Spectator Seating
+	- Rejuvenating Springs
 - Filter Land
+  - Skycloud Expanse
+  - Darkwater Catacombs
+  - Shadowblood Ridge
+  - Mossfire Valley
+  - Sungrass Prairie
+  - Desolate Mire
+  - Ferrous Lake
+  - Viridescent Bog
+  - Sunscorched Divide
+  - Overflowing Basin 
 - Scry Land
+  - Temple of Enlightenment
+  - Temple of Deceit
+  - Temple of Malice
+  - Temple of Abandon
+  - Temple of Plenty
+  - Temple of Silence
+  - Temple of Epiphany
+  - Temple of Malady
+  - Temple of Triumph
+  - Temple of Mystery
 - Pathway Land
+  - Barkchannel Pathway
+	- Blightstep Pathway
+	- Branchloft Pathway
+	- Brightclimb Pathway
+	- Clearwater Pathway
+	- Cragcrown Pathway
+	- Darkbore Pathway
+	- Hengegate Pathway
+	- Needleverge Pathway
+	- Riverglide Pathway
 - Horizon Land
+  - Fiery Islet
+  - Horizon Canopy
+  - Nurturing Peatland
+  - Silent Clearing
+  - Sunbaked Canyon
+  - Waterlogged Grove  
 - Pain Land
+  - Adarkar Wastes
+  - Underground River
+  - Sulfurous Springs
+  - Karplusan Forest
+  - Brushland
+  - Caves of Koilos
+  - Shivan Reef
+  - Llanowar Wastes
+  - Battlefield Forge
+  - Yavimaya Coast
 - Check/Buddy Land
+  - Glacial Fortress
+  - Drowned Catacomb
+  - Dragonskull Summit
+  - Rootbound Crag
+  - Sunpetal Grove
+  - Isolated Chapel
+  - Sulfur Falls
+  - Woodland Cemetery
+  - Clifftop Retreat
+  - Hinterland Harbor
 - 1-5 Rainbow
+  - City of Brass
+  - Mana Confluence
+  - Nykthos, Shrine to Nyx
 - Fast Land
+  - Seachrome Coast
+  - Darkslick Shores
+  - Blackcleave Cliffs
+  - Copperline Gorge
+  - Razorverge Thicket
+  - Concealed Courtyard
+  - Spirebluff Canal
+  - Blooming Marsh
+  - Inspiring Vantage
+  - Botanical Sanctum
 
 #### 1 Color
 - ~18 Basic Lands
