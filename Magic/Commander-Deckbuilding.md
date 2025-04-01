@@ -190,22 +190,14 @@ In this section I'll list more specifics in land types you should include based 
   - Deceptive Landscape
   - Perilous Landscape
   - Foreboding Landscape
+- Command Tower
+- Exotic Orchard
 - 1+ MDFC Lands (especially the mythics / Bala Ged Recovery)
 - 0-5 Utility Lands
 - 3 Original Dual Lands
 
 ##### 3 Color Budget
-- 3 Pain Lands 
-  - Adarkar Wastes
-  - Underground River
-  - Sulfurous Springs
-  - Karplusan Forest
-  - Brushland
-  - Caves of Koilos
-  - Shivan Reef
-  - Llanowar Wastes
-  - Battlefield Forge
-  - Yavimaya Coast
+- Whatever is cheap enough from 2 Color Casual, since this varies by color combo
 - 3 Kaldheim Snow Dual Lands 
   - Glacial Floodplain
   - Ice Tunnel
@@ -234,17 +226,6 @@ In this section I'll list more specifics in land types you should include based 
   - Necroblossom Snarl
   - Furycalm Snarl
   - Vineglimmer Snarl
-- Check Lands 
-  - Glacial Fortress
-  - Drowned Catacomb
-  - Dragonskull Summit
-  - Rootbound Crag
-  - Sunpetal Grove
-  - Isolated Chapel
-  - Sulfur Falls
-  - Woodland Cemetery
-  - Clifftop Retreat
-  - Hinterland Harbor
 - 3 Land-Type Tap Lands 
   - Idyllic Beachfront
   - Contaminated Aquifer
@@ -316,7 +297,7 @@ In this section I'll list more specifics in land types you should include based 
 - Exotic Orchard
 - Rogue's Passage
 
-#### 2 Color
+#### 2 Color Casual
 - 13 or fewer basic lands
 - 7-12 Utility Lands
 - 1-7 Fetch Lands
@@ -440,6 +421,7 @@ In this section I'll list more specifics in land types you should include based 
   - Willowrush Verge
 
 #### 2 Color Budget
+- Whatever is cheap enough from 2 Color Casual, since this varies by color combo
 - Reveal Lands
   - Port Town
   - Choked Estuary
@@ -451,6 +433,12 @@ In this section I'll list more specifics in land types you should include based 
   - Necroblossom Snarl
   - Furycalm Snarl
   - Vineglimmer Snarl
+- Tango/Battle Lands
+  - Prairie Stream
+  - Sunken Hollow
+  - Smoldering Marsh
+  - Cinder Glade
+  - Canopy Vista
 
 #### 1 Color
 - ~18 Basic Lands
