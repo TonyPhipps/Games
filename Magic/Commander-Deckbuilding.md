@@ -273,6 +273,7 @@ In this section I'll list more specifics in land types you should include based 
   - Opulent Palace
   - Frontier Bivouac
   - Mystic Monastery
+  - Murmuring Bosk
 - 1 Modern Horizons Landscape Land
   - Contaminated Landscape
   - Seething Landscape
