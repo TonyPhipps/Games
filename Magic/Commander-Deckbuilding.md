@@ -439,6 +439,19 @@ In this section I'll list more specifics in land types you should include based 
   - Wastewood Verge
   - Willowrush Verge
 
+#### 2 Color Budget
+- Reveal Lands
+  - Port Town
+  - Choked Estuary
+  - Foreboding Ruins
+  - Game Trail
+  - Fortified Village
+  - Shineshadow Snarl
+  - Frostboil Snarl
+  - Necroblossom Snarl
+  - Furycalm Snarl
+  - Vineglimmer Snarl
+
 #### 1 Color
 - ~18 Basic Lands
 - 0-4 Fetch Lands
