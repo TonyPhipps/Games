@@ -239,12 +239,6 @@ In this section I'll list more specifics in land types you should include based 
   - Haunted Mire
   - Sacred Peaks
   - Tangled Islet
-- 2 Dual-colored Cycling Lands 
-  - Irrigated Farmland
-  - Fetid Pools
-  - Canyon Slough
-  - Sheltered Thicket
-  - Scattered Groves
 - 0-3 MH3 Mechanic Lands 
   - Monumental Henge
   - Archway of Innovation
@@ -435,12 +429,7 @@ In this section I'll list more specifics in land types you should include based 
   - Smoldering Marsh
   - Cinder Glade
   - Canopy Vista
-- 2-Type Cycling Lands
-  - Irrigated Farmland
-  - Fetid Pools
-  - Canyon Slough
-  - Sheltered Thicket
-  - Scattered Groves
+
 - Ash Barren
 - MDFC Lands
   Agadeem's Awakening // Agadeem, the Undercrypt
@@ -503,6 +492,143 @@ In this section I'll list more specifics in land types you should include based 
   - Waterlogged Teachings // Inundated Archive
   - Witch Enchanter // Witch-Blessed Meadow
   - Zof Consumption // Zof Bloodbog
+
+### 2 Color Pauper Commander
+- Pure Taplands
+  - Meandering River
+  - Submerged Boneyard
+  - Cinder Barrens
+  - Timber Gorge
+  - Tranquil Expanse
+  - Forsaken Sanctuary
+  - Highland Lake
+  - Foul Orchard
+  - Stone Quarry
+  - Woodland Stream
+- Artifact Taplands
+  - Razortide Bridge
+  - Mistvault Bridge
+  - Drossforge Bridge
+  - Slagwoods Bridge
+  - Thornglint Bridge
+  - Goldmire Bridge
+  - Silverbluff Bridge
+  - Darkmoss Bridge
+  - Rustvale Bridge
+  - Tanglepool Bridge
+- Gates
+  - Azorius Guildgate
+  - Dimir Guildgate
+  - Rakdos Guildgate
+  - Gruul Guildgate
+  - Selesnya Guildgate
+  - Orzhov Guildgate
+  - Izzet Guildgate
+  - Golgari Guildgate
+  - Boros Guildgate
+  - Simic Guildgate
+- Sac-Draw Lands
+  - Skybridge Towers
+  - Waterfront District
+  - Tramway Station
+  - Racers' Ring
+  - Botanical Plaza
+  - The Fair Basilica
+  - The Surgical Bay
+  - The Dross Pits
+  - The Autonomous Furnace
+  - The Hunter Maze
+- Thriving Gates
+  - Citadel Gate
+  - Sea Gate
+  - Black Dragon Gate
+  - Cliffgate
+  - Manor Gate
+- Ping Deserts
+  - Abraded Bluffs
+  - Bristling Backwoods
+  - Creosote Heath
+  - Eroded Canyon
+  - Festering Gulch
+  - Forlorn Flats
+  - Jagged Barrens
+  - Lonely Arroyo
+  - Lush Oasis
+  - Soured Springs
+- Unlucky Lands
+  - Abandoned Campground
+  - Bleeding Woods
+  - Etched Cornfield
+  - Lakeside Shack
+  - Murky Sewer
+  - Neglected Manor
+  - Peculiar Lighthouse
+  - Raucous Carnival
+  - Razortrap Gorge
+  - Strangled Cemetery
+- M Cycling Lands
+  - Forgotten Cave
+  - Lonely Sandbar
+  - Secluded Steppe
+  - Tranquil Thicket
+- 2-Cycling Lands
+  - Drifting Meadow
+  - Polluted Mire
+  - Remote Isle
+  - Slippery Karst
+  - Smoldering Crater
+- Cycling Deserts
+  - Desert of the Fervent
+  - Desert of the Glorified
+  - Desert of the Indomitable
+  - Desert of the Mindful
+  - Desert of the True
+- Life-Gain Taplands
+  - Bloodfell Caves
+  - Blossoming Sands
+  - Dismal Backwater
+  - Rugged Highlands
+  - Scoured Barrens
+  - Swiftwater Cliffs
+  - Thornwood Falls
+  - Tranquil Cove
+  - Wind-Scarred Crag
+- Snow-Dual Lands
+  - Boreal Shelf
+  - Frost Marsh
+  - Tresserhorn Sinks
+  - Highland Weald
+  - Arctic Flats
+  - Glacial Floodplain
+  - Ice Tunnel
+  - Sulfurous Mire
+  - Highland Forest
+  - Arctic Treeline
+  - Snowfield Sinkhole
+  - Volatile Fjord
+  - Woodland Chasm
+  - Alpine Meadow
+  - Rimewood Falls
+
+
+
+- Others
+  - Ash Barrens
+  - Bojuka Bog
+  - Dwarven Mine
+  - Halimar Depths
+  - Haunted Fengraf
+  - Holdout Settlement
+  - Looming Spires
+  - Mortuary Mire
+  - Mystic Sanctuary
+  - Path of Ancestry
+  - Quicksand
+  - Sandstone Bridge
+  - Skyline Cascade
+  - Survivors' Encampment
+  - Witch's Cottage
+  
 
 ### 1 Color
 - ~18 Basic Lands
