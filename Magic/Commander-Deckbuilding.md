@@ -493,18 +493,34 @@ In this section I'll list more specifics in land types you should include based 
   - Witch Enchanter // Witch-Blessed Meadow
   - Zof Consumption // Zof Bloodbog
 
-### 2 Color Pauper Commander
+### Pauper Commander
 - Pure Taplands
-  - Meandering River
-  - Submerged Boneyard
   - Cinder Barrens
+  - Contaminated Aquifer
+  - Forsaken Sanctuary
+  - Foul Orchard
+  - Geothermal Bog
+  - Haunted Mire
+  - Highland Lake
+  - Idyllic Beachfront
+  - Meandering River
+  - Molten Tributary
+  - Radiant Grove
+  - Sacred Peaks
+  - Stone Quarry
+  - Submerged Boneyard
+  - Sunlit Marsh
+  - Tangled Islet
   - Timber Gorge
   - Tranquil Expanse
-  - Forsaken Sanctuary
-  - Highland Lake
-  - Foul Orchard
-  - Stone Quarry
   - Woodland Stream
+Wooded Ridgeline
+- Panorama Lands
+  - Bant Panorama
+  - Esper Panorama
+  - Grixis Panorama
+  - Jund Panorama
+  - Naya Panorama
 - Artifact Taplands
   - Razortide Bridge
   - Mistvault Bridge
@@ -516,7 +532,7 @@ In this section I'll list more specifics in land types you should include based 
   - Darkmoss Bridge
   - Rustvale Bridge
   - Tanglepool Bridge
-- Gates
+- Guildgates
   - Azorius Guildgate
   - Dimir Guildgate
   - Rakdos Guildgate
@@ -538,6 +554,12 @@ In this section I'll list more specifics in land types you should include based 
   - The Dross Pits
   - The Autonomous Furnace
   - The Hunter Maze
+- Thriving Lands
+  - Thriving Bluff
+  - Thriving Grove
+  - Thriving Heath
+  - Thriving Isle
+  - Thriving Moor
 - Thriving Gates
   - Citadel Gate
   - Sea Gate
@@ -609,9 +631,6 @@ In this section I'll list more specifics in land types you should include based 
   - Woodland Chasm
   - Alpine Meadow
   - Rimewood Falls
-
-
-
 - Others
   - Ash Barrens
   - Bojuka Bog
@@ -625,9 +644,12 @@ In this section I'll list more specifics in land types you should include based 
   - Path of Ancestry
   - Quicksand
   - Sandstone Bridge
+  - Soaring Seacliff
   - Skyline Cascade
   - Survivors' Encampment
   - Witch's Cottage
+  - Cryptic Spires
+  - Great Hall of the Citadel
   
 
 ### 1 Color
