@@ -22,4 +22,8 @@ https://mpcfill.com/
 - Choose one or more .xml files in the same directory.
 - After the automation continues, Click the checkbox and then Add to Cart
 Change to a different browser (one not controlled by the automation script)
-- Verify all the cards are there, then buy
+- Verify all the cards are there
+- Open Firefox and log in to makeplayingcards, begin checkout process
+- When the Payment Method screen is shown with only Credit Card as a selection, create and visit a bookmark with this url
+  - javascript:paymentMode('4319D0A447FDC73F');
+- Now you can check out with Paypal.
