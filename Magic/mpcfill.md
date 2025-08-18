@@ -1,6 +1,6 @@
 NOTE: The largest card order to easily place with mpcfil.com is 612 cards.
 
-https://www.mpcfill.com/
+https://mpcfill.com/
 
 - Set card priority to RustyShackleford (for original-close and MDFC) > WillieTanner
 
