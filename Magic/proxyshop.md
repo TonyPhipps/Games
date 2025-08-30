@@ -9,3 +9,6 @@ Fonts
 
 Run Proxyshop with Admin rights
 
+Ensure "Normal" tab is selected
+Ensure Borderless" is selected (maybe more allow nickname)
+
