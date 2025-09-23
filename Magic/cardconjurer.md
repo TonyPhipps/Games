@@ -43,3 +43,8 @@
 	- Change the flavor text as needed.
 
 
+# AI Prompt
+Render art at the full size of a Magic: the Gathering card plus 1/8 inch to account for bleed edge for printing. The art should be in the style of older Magic cards, and should depict ....
+
+
+
