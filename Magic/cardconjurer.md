@@ -44,7 +44,12 @@
 
 
 # AI Prompt
-Render art at the full size of a Magic: the Gathering card plus 1/8 inch to account for bleed edge for printing. The art should be in the style of older Magic cards, and should depict ....
+Render art for a Magic: The Gathering proxy. It should be just the art, sized as a full Magic card size, plus space for a 1/8 bleed edge, to make the card more printable. The art style should be similar to those used in early Magic cards. The art should depict....
+
+OR 
+
+Render art for a Magic: The Gathering proxy. It should be just the art, no card frame. The art style should be similar to those used in early Magic cards. The art should depict....
+
 
 
 
