@@ -6,8 +6,14 @@
     - Paste Card Name
     - Under "Automatically update frame" select a preferred frame type (probably "Borderless (Alt) (Universes Beyond))
 - For Borderless frames, you may need to adjust stuff:
-	- Under "Drag to Reorder Frame Images" see if "Multicolored Legend Crown" or similar is failing to load.
- 		- If so, hit the "X", uncheck "Auto Load", and find the frame element, then re-add it.
+  - Navigate to Frame
+    - Under "Drag to Reorder Frame Images" see if "Multicolored Legend Crown" or similar is failing to load.
+ 	  - If so, hit the "X", uncheck "Auto Load", and find the frame element, then re-add it.
+    - Delete the "Legend Crown Border Cover" layer
+    - Change the dropdowns to 1/8 Inch Margin
+      - Click Load Frame Version (everything should shrink)
+      - In the "Select a Frame..." area, click the preferred frame (probably "Borderless Extension")
+      - Click "Add Frame to Card"
 
 # Changing Art
 - Upload image to imgur.com
@@ -16,8 +22,7 @@
 - Paste the link in "via URL" text box
 - Navigate to Frame
 - In the first dropdown, select 1/8th Inch Margin
-- Click Load Frame Version
-- Consider adding "Borderless Extension (Bottom Bar)" if using a relevant frame type
+- In the dropdown to the right,
 - Navigate to Art
 - Fix whatever needs adjusted
 
@@ -33,8 +38,10 @@
 	- change any references to the card name if needed
 
 
+
 # Changing Flavor Text
 - Navigate to Text > Rules Text
 	- Find the {flavor} tag or add one to the end. This separates rules text from flavor text.
 
 	- Change the flavor text as needed.
+
