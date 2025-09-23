@@ -1,9 +1,13 @@
 # Proxy an Existing Card
-- Copy Card Name
-- Import / Save
+- Copy the card name
+- Navigate to Import / Save'
+- Check "Include all unique prints as options"
 - Click text box under "Import a real card by name"
     - Paste Card Name
-    - Under "Automatically update frame" select a preferred frame type
+    - Under "Automatically update frame" select a preferred frame type (probably "Borderless (Alt) (Universes Beyond))
+- For Borderless frames, you may need to adjust stuff:
+	- Under "Drag to Reorder Frame Images" see if "Multicolored Legend Crown" or similar is failing to load.
+ 		- If so, hit the "X", uncheck "Auto Load", and find the frame element, then re-add it.
 
 # Changing Art
 - Upload image to imgur.com
@@ -32,4 +36,5 @@
 # Changing Flavor Text
 - Navigate to Text > Rules Text
 	- Find the {flavor} tag or add one to the end. This separates rules text from flavor text.
+
 	- Change the flavor text as needed.
