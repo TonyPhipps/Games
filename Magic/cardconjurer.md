@@ -20,9 +20,6 @@
 - copy the link to the image
 - Navigate to Art
 - Paste the link in "via URL" text box
-- Navigate to Frame
-- In the first dropdown, select 1/8th Inch Margin
-- In the dropdown to the right,
 - Navigate to Art
 - Fix whatever needs adjusted
 
@@ -44,4 +41,5 @@
 	- Find the {flavor} tag or add one to the end. This separates rules text from flavor text.
 
 	- Change the flavor text as needed.
+
 
