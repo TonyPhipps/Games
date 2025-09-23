@@ -1,3 +1,5 @@
+NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impossible to get around that will drive you nuts.
+
 # Proxy an Existing Card
 - Copy the card name
 - Navigate to Import / Save'
@@ -49,6 +51,7 @@ Render art for a Magic: The Gathering proxy. It should be just the art, no magic
 OR 
 
 Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640px wide and 1210px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+
 
 
 
