@@ -41,7 +41,7 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
         - Click newly created "Nickname" tab
             - Change name as needed
 - Navigate to Frame
-	- Change middle dropdown to "Nicknames"
+	- Change dropdowns to Regular > Nicknames
 	- Find the appropriate frame color, then click "Add Frame to Card" button	
 - Navigate to Text > Rules Text
 	- change any references to the card name if needed
@@ -59,6 +59,7 @@ Render art for a Magic: The Gathering proxy. It should be just the art, no magic
 OR 
 
 Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640px wide and 1210px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+
 
 
 
