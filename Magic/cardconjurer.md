@@ -25,7 +25,8 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
   - For Legendaries: Showcase Frames > Nickname "Godzilla"
     - Click Load Frame, then add the proper Frame, Crown, Power/Toughness as needed.
     - You'll also want to adjust the Nickname font size so it fits with the mana costs properly.
-  - For Non Legendaries: artifacts, Seventh Edition
+  - For Non Legendary artifacts: Old/Misc > Seventh Edition
+  - For Non-Lengendaries with color: Old/Misc > 8th Edition
  
 # Adding a Bleed Edge for Printing
 - Change the first dropdown to 1/8 Inch Margin
@@ -58,6 +59,7 @@ Render art for a Magic: The Gathering proxy. It should be just the art, no magic
 OR 
 
 Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640px wide and 1210px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+
 
 
 
