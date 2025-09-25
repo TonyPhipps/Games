@@ -18,6 +18,7 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
   - For non-legendary, non-artifacts, 8th Edition
 - Fix any busted elements. These show a "missing image" style icon under "Drag to reorder frame images"
   - You will need to reorder some elements from top to bottom to ensure proper layering.
+  - For Universes Beyond, look under "Floating Legend Crowns" in the middle dropdown.
 - Change the first dropdown to 1/8 Inch Margin
   - Click Load Frame Version (everything should shrink)
 - Change the second dropdown, if needed, to the appopriate collection of margins
@@ -56,6 +57,7 @@ Render art for a Magic: The Gathering proxy. It should be just the art, no magic
 OR 
 
 Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640px wide and 1210px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+
 
 
 
