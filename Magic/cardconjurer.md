@@ -8,8 +8,13 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
     - Paste Card Name
     - Under "Automatically update frame" select a preferred frame type (probably "Borderless (Alt) (Universes Beyond))
 
-# Adding Bleed Edge
+
+# Changing Frame and Adding Bleed Edge
 - Navigate to Frame
+- At the bottom change "Automatically update frame" to the one you like. I like:
+  - For Legendaries, Borderless (Alt) or Borderless (Alt) (Universes Beyond)
+  - For non-legendary artifacts, Seventh Edition
+  - For non-legendary, non-artifacts, 8th Edition
 - Change the first dropdown to 1/8 Inch Margin
   - Click Load Frame Version (everything should shrink)
 - Change the second dropdown, if needed, to the appopriate collection of margins
@@ -48,6 +53,7 @@ Render art for a Magic: The Gathering proxy. It should be just the art, no magic
 OR 
 
 Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640px wide and 1210px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+
 
 
 
