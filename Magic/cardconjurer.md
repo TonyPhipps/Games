@@ -12,6 +12,7 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
 # Changing Frame
 - Navigate to Frame
 - Uncheck "Automatically load Frame Version when loading Frame Packs" - Trust me its annoying when this changes when you're trying to just fix a broken/missing element.
+- Remove all the frame elements by clicking all the X's
 - At the bottom uncheck "Automatically update frame"
 - Use the frame dropdowns to find the frames you like. I like:
   - For Legendaries: Showcase Frames > Nickname "Godzilla"
@@ -58,6 +59,7 @@ Render art for a Magic: The Gathering proxy. It should be just the art, no magic
 OR 
 
 Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640px wide and 1210px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+
 
 
 
