@@ -11,15 +11,18 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
 
 # Changing Frame and Adding Bleed Edge
 - Navigate to Frame
+- Uncheck "Automatically load Frame Version when loading Frame Packs" - Trust me its annoying when this changes when you're trying to just fix a broken/missing element.
 - At the bottom change "Automatically update frame" to the one you like. I like:
   - For Legendaries, Borderless (Alt) or Borderless (Alt) (Universes Beyond)
   - For non-legendary artifacts, Seventh Edition
   - For non-legendary, non-artifacts, 8th Edition
+- Fix any busted elements. These show a "missing image" style icon under "Drag to reorder frame images"
+  - You will need to reorder some elements from top to bottom to ensure proper layering.
 - Change the first dropdown to 1/8 Inch Margin
   - Click Load Frame Version (everything should shrink)
 - Change the second dropdown, if needed, to the appopriate collection of margins
   - Under "Select a Frame ..." select the appropriate layer
-  - Click Add Frame to Card 
+  - Click Add Frame to Card
 
 # Changing Art
 - Upload image to imgur.com
@@ -53,6 +56,7 @@ Render art for a Magic: The Gathering proxy. It should be just the art, no magic
 OR 
 
 Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640px wide and 1210px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+
 
 
 
