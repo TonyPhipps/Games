@@ -57,11 +57,14 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
 
 
 # AI Prompt
-Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 2200px wide and 3000px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+(for Godzilla-style full art card)
+Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 2200 x 3000 px @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
 
-OR 
+OR  (for the extended left/right art)
+Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 2200 x 2250px @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
 
-Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640px wide and 1210px tall @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
+OR  (for the normal, classic art frame)
+Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 1640 x 1210 px @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
 
 
 
