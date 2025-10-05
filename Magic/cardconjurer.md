@@ -21,10 +21,12 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
 - Uncheck "Automatically load Frame Version when loading Frame Packs" - Trust me its annoying when this changes when you're trying to just fix a broken/missing element.
 - Remove all the frame elements by clicking all the X's
 - At the bottom uncheck "Automatically update frame"
-- Use the frame dropdowns to find the frames you like. I like:
+- Use the frame dropdowns to find the frames you like. 
+- I like:
   - For Legendaries: Showcase Frames > Nickname "Godzilla"
     - Click Load Frame, then add the proper Frame, Crown, Power/Toughness as needed.
     - You'll also want to adjust the Nickname font size so it fits with the mana costs properly.
+  - For cards with wider art: Showcase > Extended Art (Regular)
   - For Non Legendary artifacts: Old/Misc > Seventh Edition
   - For Non-Lengendaries with color: Old/Misc > 8th Edition
   - For Sagas: Sagas > Nyx Frames
