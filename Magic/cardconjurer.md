@@ -30,6 +30,7 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
   - For Non Legendary artifacts: Old/Misc > Seventh Edition
   - For Non-Lengendaries with color: Old/Misc > 8th Edition
   - For Sagas: Sagas > Nyx Frames
+  - For Basic Lands: Regular > Lands (see the large icons in frame choices)
  
 # Adding a Bleed Edge for Printing
 - Change the first dropdown to 1/8 Inch Margin
