@@ -56,7 +56,10 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
        - Sample: ```{T}: Add {C}{C}.{flavor}“These are you flavor words!”{lns}—This is your author/source!```
 
 
-# AI Prompt
+# AI Prompts
+(To help reskin a card you know needs to match a chosen theme)
+Help me reskin a card for Magic the Gathering to use as a proxy. I only need the Nickname (if necessary), flavor text, and a description of a good art for the card. An explanation as to why it fits is also helpful. The card is ... and the theme to reskin the card into is ...
+
 (for Godzilla-style full art card)
 Render art for a Magic: The Gathering proxy. It should be just the art, no magic card frame, sized at 2200 x 3000 px @ 800 DPI. The art style should be similar to those used in early Magic cards. The art should depict ...
 
