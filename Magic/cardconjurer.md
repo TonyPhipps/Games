@@ -23,12 +23,11 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
 - At the bottom uncheck "Automatically update frame"
 - Use the frame dropdowns to find the frames you like. 
 - I like:
-  - For Legendaries: Showcase Frames > Nickname "Godzilla"
+  - Showcase Frames > Nickname "Godzilla"
     - Click Load Frame, then add the proper Frame, Crown, Power/Toughness as needed.
     - You'll also want to adjust the Nickname font size so it fits with the mana costs properly.
   - For cards with wider art: Showcase > Extended Art (Regular)
-  - For Non Legendary artifacts: Old/Misc > Seventh Edition
-  - For Non-Lengendaries with color: Old/Misc > 8th Edition
+  - For artifacts: Old/Misc > Seventh Edition
   - For Sagas: Sagas > Nyx Frames
   - For Basic Lands: Regular > Lands (see the large icons in frame choices)
  
