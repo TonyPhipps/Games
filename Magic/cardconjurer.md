@@ -29,7 +29,9 @@ NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impo
   - For cards with wider art: Showcase > Extended Art (Regular)
   - For artifacts: Old/Misc > Seventh Edition
   - For Sagas: Sagas > Nyx Frames
-  - For Basic Lands: Regular > Lands (see the large icons in frame choices)
+  - For Basic Lands: 
+    - Showcase Frames > M21 Siganture Spellbook (M21)
+    - Regular > Lands (see the large icons in frame choices)
  
 # Adding a Bleed Edge for Printing
 - Change the first dropdown to 1/8 Inch Margin
