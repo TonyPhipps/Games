@@ -46,7 +46,7 @@ It is recommended that you create a tag for each category and use them during de
 - **Ramp** (Includes Mana Advantage)
 - **Graveyard Hate** (anything that exiles one or more cards from graveyards)
 - **Protection** (anything that protects your commander or any other key elements)
-- **Combat Tricks** (instants or flash cards designed to change the outcome of combat)
+- **Combat Trick** (instants or flash cards designed to change the outcome of combat)
 - **Synergy** (anything that synergizes with what your deck is trying to do. I usually end up with more than one synergy tag)
 
 **Note** - A card that does two of these should be added to both tags. A card that fits in two or more tags is actually more versatile and therefore better overall.
