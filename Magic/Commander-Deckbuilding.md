@@ -40,11 +40,11 @@ Play the deck a few times. Develop an idea of what tweaks it needs, then do it.
 It is recommended that you create a tag for each category and use them during deck building, especially to find cards that fit into multiple categories. This lets you ensure you have a good idea of how many cards you have in each area. I recommend you have a non-zero number of all of these.
 
 - **Interaction** (includes single removal, Counterspells)
-- **Wipes** (includes board wipes, single-sided wipes, selective wipes)
+- **Wipe** (includes board wipes, single-sided wipes, selective wipes)
 - **Draw** (Includes Card Advantage)
 - **Selection** (Card selection, like Scry or Surveil)
 - **Ramp** (Includes Mana Advantage)
-- **Graveyard** Hate (anything that exiles one or more cards from graveyards)
+- **Graveyard Hate** (anything that exiles one or more cards from graveyards)
 - **Protection** (anything that protects your commander or any other key elements)
 - **Combat Tricks** (instants or flash cards designed to change the outcome of combat)
 - **Synergy** (anything that synergizes with what your deck is trying to do. I usually end up with more than one synergy tag)
