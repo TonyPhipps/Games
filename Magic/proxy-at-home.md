@@ -1,6 +1,19 @@
 Printer:
 - Epson 8550
 
+Process:
+- Build deck on Moxfield
+  - Export as MTGO
+- paste into proxxied.com "Import Deck"
+  - Wait for images to process
+  - click purple button "Add Associated Tokens"
+  - Double check each card image. Target 600-900 resolution, preferring lower, to align well with how Epson 8550 works.
+  - Export to PDF
+- Open PDF in browser, print.
+  - In popup, click "Print Using System Dialog..." near OK button.
+- Epson Profile
+  - 
+
 
 2026-01-29
 - Paper: "Best Double sided matte Inkjet Printing Photo Paper 8.3"x11.7" A4 Size 50 sheets weight 180gsm for All Inkjet Printers"
