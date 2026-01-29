@@ -8,6 +8,7 @@ Process:
   - Wait for images to process
   - click purple button "Add Associated Tokens"
   - Double check each card image. Target 600-900 resolution, preferring lower, to align well with how Epson 8550 works.
+  - Guides > Guide Length: 2.5mm
   - Export to PDF
 - Open PDF in browser, print.
   - In popup, click "Print Using System Dialog..." near OK button.
