@@ -45,7 +45,7 @@ It is recommended that you create a tag for each category and use them during de
 - **Selection** (Card selection, like Scry or Surveil, Graveyard-to-Library)
 - **Ramp** (Includes Mana Advantage, Cost Reduction)
 - **Graveyard Hate** (anything that exiles one or more cards from graveyards)
-- **Protection** (anything that protects your commander or any other key elements)
+- **Protection** (anything that protects you, your commander, or your spells, permanents, hand, library, graveyard, etc.)
 - **Combat Trick** (instants or flash cards designed to change the outcome of combat)
 - **Synergy** (anything that synergizes with what your deck is trying to do. I usually end up with more than one synergy tag)
 
