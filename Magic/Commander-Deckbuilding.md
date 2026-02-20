@@ -43,7 +43,7 @@ It is recommended that you create a tag for each category and use them during de
 - **Wipe** (includes board wipes, single-sided wipes, selective wipes)
 - **Draw** (Includes Tutoring, Card Advantage, Graveyard Recursion, Impulse, Clue Creation, self-mill, self-discard, self-library-to-graveyard, cloning, etc.)
 - **Selection** (Card selection, like Scry or Surveil, Graveyard-to-Library)
-- **Ramp** (Includes Mana Advantage, Cost Reduction)
+- **Ramp** (Includes Mana Advantage, Cost Reduction, extra lands, treasure token creation, etc.)
 - **Graveyard Hate** (anything that exiles one or more cards from graveyards)
 - **Protection** (anything that protects you, your commander, or your spells, permanents, hand, library, graveyard, etc.)
 - **Combat Trick** (instants or flash cards designed to change the outcome of combat)
