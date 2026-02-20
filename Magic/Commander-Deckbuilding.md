@@ -41,7 +41,7 @@ It is recommended that you create a tag for each category and use them during de
 
 - **Interaction** (includes single removal, Counterspells)
 - **Wipe** (includes board wipes, single-sided wipes, selective wipes)
-- **Draw** (Includes Tutoring, Card Advantage, Graveyard Recursion, Impulse, Clue Creation, self-mill, self-discard, self-library-to-graveyard, etc.)
+- **Draw** (Includes Tutoring, Card Advantage, Graveyard Recursion, Impulse, Clue Creation, self-mill, self-discard, self-library-to-graveyard, cloning, etc.)
 - **Selection** (Card selection, like Scry or Surveil, Graveyard-to-Library)
 - **Ramp** (Includes Mana Advantage, Cost Reduction)
 - **Graveyard Hate** (anything that exiles one or more cards from graveyards)
