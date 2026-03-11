@@ -3,7 +3,7 @@ Printer:
 
 Print/Paper Settings
 - Paper Source: Rear Paper Feeder
-- Paper Type: Premium Photo Paper
+- Paper Type: Premium Photo Paper Glossy
 - Quality: High
 
 Color Correction
