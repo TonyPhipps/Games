@@ -1,12 +1,19 @@
 Printer:
 - Epson 8550
-  - Color Mode: Epson Vivid
-  - Brightness 4
-  - Contrast 6
-  - Saturation 26
-  - Cyan -4
-  - Magenta -6 
-  - Yellow 2
+
+Print/Paper Settings
+- Paper Source: Rear Paper Feeder
+- Paper Type: Premium Photo Paper
+- Quality: High
+
+Color Correction
+- Color Mode: Epson Vivid
+- Brightness: 4
+- Contrast: 6
+- Saturation: 25
+- Cyan: -4
+- Magenta: -6 
+- Yellow: 2
 
 Process:
 - Build deck on Moxfield
