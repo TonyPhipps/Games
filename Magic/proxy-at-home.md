@@ -1,5 +1,12 @@
 Printer:
 - Epson 8550
+  - Color Mode: Epson Vivid
+  - Brightness 4
+  - Contrast 6
+  - Saturation 26
+  - Cyan -4
+  - Magenta -6 
+  - Yellow 2
 
 Process:
 - Build deck on Moxfield
