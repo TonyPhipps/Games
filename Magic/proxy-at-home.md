@@ -26,8 +26,6 @@ Process:
   - Export to PDF
 - Open PDF in browser, print.
   - In popup, click "Print Using System Dialog..." near OK button.
-- Epson Profile
-  - 
 
 
 2026-01-29
