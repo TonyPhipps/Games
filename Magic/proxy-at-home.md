@@ -1,12 +1,14 @@
-Printer:
+# Printer
 - Epson 8550
 
-Print/Paper Settings
+
+# Print/Paper Settings
 - Paper Source: Rear Paper Feeder
 - Paper Type: Premium Photo Paper Glossy
 - Quality: High
 
-Color Correction
+
+# Color Correction
 - Color Mode: Epson Vivid
 - Brightness: 4
 - Contrast: 6
@@ -15,7 +17,8 @@ Color Correction
 - Magenta: -6 
 - Yellow: 2
 
-Process:
+
+# Process
 - Build deck on Moxfield
   - Export as MTGO
 - paste into proxxied.com "Import Deck"
@@ -28,7 +31,7 @@ Process:
   - In popup, click "Print Using System Dialog..." near OK button.
 
 
-Recommended Materials
+# Recommended Materials
 - Combo 1
   - Paper: "Best Double sided matte Inkjet Printing Photo Paper 8.3"x11.7" A4 Size 50 sheets weight 180gsm for All Inkjet Printers"
     - https://www.amazon.com/dp/B074R81S36
