@@ -1,5 +1,7 @@
-# Printer
-- Epson 8550
+# Hardware
+- Epson EcoTank Photo ET-8550
+- Oregon Lamination C-006-3MM Deluxe 3mm (1/8") Corner Rounder Punch
+- Dahle 507 Personal Rotary Trimmer
 
 
 # Print/Paper Settings
