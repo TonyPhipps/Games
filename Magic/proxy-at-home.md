@@ -38,17 +38,20 @@
 
 # Recommended Materials
 Based on:
-- Real Magic cards are 0.311mm thick
-- 3mil Laminate is 3/1000in (0.076mm) per side
+- **Real Magic cards** are **0.311mm** thick
+- **Dragon Shield inner sleeve** is 0.06mm (60 microns) per side, so **0.12mm** total
+  - So a **real inner-sleeved Magic card** is 0.311mm + 0.06mm + 0.06mm = **0.431mm**
+- **3mil Laminate** is 3/1000in (0.076mm) per side, so **0.152mm total**
+  - Note that some people laminate only one side, but adds a challenge to defeat curling
 
-- Paper
-  - Koala Double Sided Glossy Inkjet Brochure Paper 8.5X11 Inches Thin 37lb 140gsm ( 
-- Combo 1
-  - Paper: Best Double sided matte Inkjet Printing Photo Paper 8.3"x11.7" A4 Size weight 180gsm
+- 8.5x11 Paper
+  - Koala Double Sided Glossy Inkjet Brochure Paper 37lb 140gsm
+    - 0.16mm + 0.152mm laminate = .312mm
+    - https://www.amazon.com/dp/B0DLGM51KW
+    - Notes: Extremely close to real magic cards
+  
+- A4 Paper
+  - Best Double sided matte Inkjet Printing Photo Paper 8.3"x11.7" A4 Size weight 180gsm
+    - 0.23mm + 0.152mm laminate = .382mm
     - https://www.amazon.com/dp/B074R81S36
-  - Laminate: "Apache 100 Pack Laminating Pouches 3 mil, Holds 210 x 297 mm A4 Size (216 x 303 mm Sheets), Office and School Supplies, Thermal Laminating Sheets, Super Clear, Round Corner"
-    - https://www.amazon.com/dp/B0FHLN995C
-  - Thickness: at 100 cards, pile is halfway between unsleeved and inner-sleeved.
-  - Quality: Excellent
-- Review pending
-  - Paper: Koala Double Sided Glossy Inkjet Brochure Paper 8.5X11 Inches Thin 37lb 140gsm
+    - Notes: The 0.382mm thickness puts the height of a commander deck of full proxies between an inner-sleeved real magic deck and a double-sleeved real magic deck.
