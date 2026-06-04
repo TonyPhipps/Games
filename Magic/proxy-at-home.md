@@ -2,6 +2,7 @@
 - Epson EcoTank Photo ET-8550
 - Oregon Lamination C-006-3MM Deluxe 3mm (1/8") Corner Rounder Punch
 - Dahle 507 Personal Rotary Trimmer
+- Pen+Gear Thermal Laminator (using 5mil setting)
 - Review Pending
   - Silhouette Cameo 5 pro MK II
   - Fellowes Saturn 125 Thermal Laminator Machine
