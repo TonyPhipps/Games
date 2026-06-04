@@ -37,6 +37,12 @@
 
 
 # Recommended Materials
+Based on:
+- Real Magic cards are 0.311mm thick
+- 3mil Laminate is 3/1000in (0.076mm) per side
+
+- Paper
+  - Koala Double Sided Glossy Inkjet Brochure Paper 8.5X11 Inches Thin 37lb 140gsm ( 
 - Combo 1
   - Paper: Best Double sided matte Inkjet Printing Photo Paper 8.3"x11.7" A4 Size weight 180gsm
     - https://www.amazon.com/dp/B074R81S36
