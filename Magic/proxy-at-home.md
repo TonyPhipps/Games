@@ -47,7 +47,7 @@ Based on:
 
 - 8.5x11 Paper
   - Koala Double Sided Glossy Inkjet Brochure Paper 37lb 140gsm
-    - 0.16mm + 0.152mm laminate = .312mm
+    - 0.155mm + 0.152mm laminate = .307mm
     - https://www.amazon.com/dp/B0DLGM51KW
     - Notes: Extremely close to real magic cards
   
