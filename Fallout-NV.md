@@ -57,3 +57,21 @@ return
     - FNV BSA Decompressor
     - Ultimate Edition ESM Fixes Remastered
     - 4GB Patch
+  
+## Copying to Linux/Bazzite
+- Move the entire output folder (which contains the `ModOrganizer.exe`, `mods`, and `downloads` folders) over to your Bazzite machine via an external SSD, a network share, or a tool like Warpinator/Syncthing. Place it somewhere safe like `/home/your-username/Games/`.
+- In Bazzite's Steam client, click **Add a Game > Add a Non-Steam Game** and target the `ModOrganizer.exe` inside that transferred folder.
+- Right-click the new shortcut in Steam, go to **Properties > Compatibility**, check **Force the use of a specific Steam Play compatibility tool**, and select **Proton Experimental** or a recent **GE-Proton**.
+
+### Critical Post-Install Step for Fallout: New Vegas
+Bethesda games heavily rely on registry keys to let mod managers know where the game is actually installed. Because your newly installed Mod Organizer 2 is running in its own clean Steam shortcut prefix, it won't naturally see your Fallout: New Vegas installation.
+
+To link them seamlessly, open the Steam Properties for your **ModOrganizer.exe** shortcut and paste the following into the **Launch Options**:
+
+```
+STEAM_COMPAT_DATA_PATH="/home/your-username/.local/share/Steam/steamapps/compatdata/22380" %command%
+```
+
+(Replace 22380 with the actual Steam AppID folder for your version of New Vegas if you are using the Ultimate Edition or a different branch, though 22380 is standard).
+
+Why this matters: This command tells Steam to force Mod Organizer 2 to share the exact same Proton environment as your real Fallout: New Vegas installation. It allows MO2 to read the game files, registry keys, and ini paths instantly without manual editing.
