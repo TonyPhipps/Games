@@ -49,7 +49,7 @@ return
 - Follow the guide for Viva New Vegas
   - https://vivanewvegas.moddinglinked.com/intro.html
   - NOTE: All mods are already installed in the mod manager via wabbajack. You will still need to install these from the Utilities section in the guide directly into the Fallout NV folder:
-  - New Vegas Script Extender (NVSE xNVSE)
-  - FNV BSA Decompressor
-  - Ultimate Edition ESM Fixes Remastered
-  - 4GB Patch
+    - New Vegas Script Extender (NVSE xNVSE)
+    - FNV BSA Decompressor
+    - Ultimate Edition ESM Fixes Remastered
+    - 4GB Patch
