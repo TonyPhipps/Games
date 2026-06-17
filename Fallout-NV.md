@@ -11,6 +11,8 @@ This allows the game to consume over 4GB memory (a good thing)
   - https://www.wabbajack.org/
 - Begin installation of Viva New Vegas modpack. It will require clicking a "download" like button over and over. Use the script below to automate clicking
   - Install Autohotkey and run this script. Take a screenshot of the "slow download" button and change "ImagePath" to the path of that screenshot.
+
+
 ```ahk
 #NoEnv
 #Persistent
@@ -46,6 +48,8 @@ return
 ; Emergency stop shortcut: Press Ctrl + Alt + P to close the script instantly
 ^!p::ExitApp
 ```
+
+
 - Follow the guide for Viva New Vegas
   - https://vivanewvegas.moddinglinked.com/intro.html
   - NOTE: All mods are already installed in the mod manager via wabbajack. You will still need to install these from the Utilities section in the guide directly into the Fallout NV folder:
