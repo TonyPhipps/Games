@@ -40,13 +40,13 @@ Play the deck a few times. Develop an idea of what tweaks it needs, then do it.
 It is recommended that you create a tag for each category and use them during deck building, especially to find cards that fit into multiple categories. This lets you ensure you have a good idea of how many cards you have in each area. I recommend you have a non-zero number of all of these.
 
 - **Interaction** (includes single removal, Counterspells)
-- **Wipes** (includes board wipes, single-sided wipes, selective wipes)
-- **Draw** (Includes Card Advantage)
-- **Selection** (Card selection, like Scry or Surveil)
-- **Ramp** (Includes Mana Advantage)
-- **Graveyard** Hate (anything that exiles one or more cards from graveyards)
-- **Protection** (anything that protects your commander or any other key elements)
-- **Combat Tricks** (instants or flash cards designed to change the outcome of combat)
+- **Wipe** (includes board wipes, single-sided wipes, selective wipes)
+- **Draw** (Includes Tutoring, Card Advantage, Graveyard Recursion, Impulse, Clue Creation, self-mill, self-discard, self-library-to-graveyard, cloning, etc.)
+- **Selection** (Card selection, like Scry or Surveil, Graveyard-to-Library)
+- **Ramp** (Includes Mana Advantage, Cost Reduction, extra lands, treasure token creation, etc.)
+- **Graveyard Hate** (anything that exiles one or more cards from graveyards)
+- **Protection** (anything that protects you, your commander, or your spells, permanents, hand, library, graveyard, etc.)
+- **Combat Trick** (instants or flash cards designed to change the outcome of combat)
 - **Synergy** (anything that synergizes with what your deck is trying to do. I usually end up with more than one synergy tag)
 
 **Note** - A card that does two of these should be added to both tags. A card that fits in two or more tags is actually more versatile and therefore better overall.

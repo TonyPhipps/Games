@@ -1,3 +1,4 @@
+https://cardconjurer.app/
 NOTE: Pretty much have to use Chrome. Firefox haas some minor bugs that are impossible to get around that will drive you nuts.
 
 # Proxy an Existing Card
