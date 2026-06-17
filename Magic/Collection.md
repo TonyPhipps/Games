@@ -6,7 +6,7 @@
 - Cards ever used in a deck are left in their inner sleeves
 
 ## Older Sets
-- 3inch Binder Per Color
+- 2inch Binder Per Color (more binders, not bigger binders)
 - Sorted by card name (starting letter only)
   - Each letter gets a separator page/tab to enable quick finding
 - 1 card per set
@@ -14,7 +14,7 @@
 
 ## Extra Cards
 - Any doubles go into boxes.
-- Sorted by color identity > type > card name (starting letter only)
+- Sorted by color identity > type > card name (first letter only)
 - Uncommons/Rares are sleeved with any extra sleeves or inner sleeves
 - Cards ever used in a deck are left in their inner sleeves
 
