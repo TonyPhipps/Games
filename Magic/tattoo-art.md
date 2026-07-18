@@ -1,0 +1,7 @@
+- Glimpse the Impossible
+  - https://www.mtgpics.com/illustration?i=61380
+- Sword of Fire and Ice
+  - https://www.mtgpics.com/illustration?i=42268
+- Squee, Goblin Nabob
+  - https://www.mtgpics.com/illustration?i=26446
+- 
