@@ -1,3 +1,4 @@
+# Alesis Drum E-Kit Setup
 Assign the MIDI Inputs
  - https://www.youtube.com/watch?v=MVG5HUpoyWg
  - Press VOICE button until it is on MID (MIDI)
@@ -17,6 +18,6 @@ Assign the MIDI Inputs
 
 - Press UTILITY to set SEN and THR per device
   - SEN (Pad sensitivity)
-    - Controls how responsive a pad is when you hit it. The higher the value, the less forcefully you need to play to generate a loud hit.
+    - Controls how responsive a pad is when You hit it. The higher the value, the less forcefully You need to play to generate a loud hit.
   - THR (Pad threshold)
     - Controls how forcefully you have to hit the pad to generate a sound. The higher the value, the harder you have to hit it.
