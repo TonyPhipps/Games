@@ -9,3 +9,15 @@
         - In each binder, group (not sort) based on first letter.
           - Split letter groups by starting a new page.
           - Split letter groups of smaller letters like Q, Z by row until they demand more space.
+          - Each card is inner-sleaved to be play-ready and protect your most valuable favorite cards when you wish to play in an event.
+
+For example, each of the below would be in its own binder.
+- White Creatures
+- White Enchantments
+- White Sorceries
+- White Instants
+- etc.
+
+And to find the card you are looking for, you need to know the color, type, and name. You find the Color / Type binder, open it, and flip to the first-letter-group. Quickly scan that grouping of cards until you find it.
+
+For any deck not intended to play in a sanctioned event, proxy!
