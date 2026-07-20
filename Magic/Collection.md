@@ -6,6 +6,7 @@
   - WUBRG, Multicolor (Gold), Colorless, Lands
     - For each color: One binder per type
       - For Color/Type combination, a 1 inch binder, preferably matching card color (WUBRG, Gold, Gray, Brown)
+        (NOTE: Battle cards may only need a 1/2in binder.)
         - In each binder, group (not sort) based on first letter.
           - Split letter groups by starting a new page.
           - Split letter groups of smaller letters like Q, Z by row until they demand more space.
