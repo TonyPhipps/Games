@@ -1,4 +1,4 @@
-# Master Collection
+# Mechanically Complete Global Collection
 - Keep 1 printing of any card name.
 - Pick your favorite. If you have no favorite, consider the cheapest or the original printing.
 
