@@ -1,6 +1,6 @@
 # Pickleball Court Setup with 100-foot Measuring Tape
 
-[[]]
+![alt text](Court-layout-dimension-scaled.png)
 
 The total tape length required is **92 feet, 4 inches**. 
 This means a standard, widely available **100-foot tape measure** will work perfectly, saving you from having to buy a massive, more expensive commercial size.
