@@ -1,16 +1,18 @@
 # Mechanically Complete Global Collection
 - Keep 1 printing of any card name.
-- Pick your favorite. If you have no favorite, consider the cheapest or the original printing.
+- Pick your favorite. If You have no favorite, consider the cheapest or the original printing.
 
 ## Sorting
   - WUBRG, Multicolor (Gold), Colorless, Lands
     - For each color: One binder per type
-      - For Color/Type combination, a 1 inch binder, preferably matching card color (WUBRG, Gold, Gray, Brown)
+      - For Color/Type combination, a 1 inch binder, preferably matching card color 
         (NOTE: Battle cards may only need a 1/2in binder.)
-        - In each binder, group (not sort) based on first letter.
-          - Split letter groups by starting a new page.
-          - Split letter groups of smaller letters like Q, Z by row until they demand more space.
-          - Each card is inner-sleaved to be play-ready and protect your most valuable favorite cards when you wish to play in an event.
+        - WUBRG, Gold for Multicolor, gray for Colorless
+          - Creature, Artifact, Enchantment, Instant, Planeswalker, Sorcery, Misc (Battle, Conspiracy, etc)
+          - In each binder, group (not sort) based on first letter.
+            - Split letter groups by starting a new page.
+            - Split letter groups of smaller letters like Q, Z by row until they demand more space.
+            - Each card is inner-sleaved to be play-ready and protect your most valuable favorite cards when You wish to play in an event.
 
 For example, each of the below would be in its own binder.
 - White Creatures
