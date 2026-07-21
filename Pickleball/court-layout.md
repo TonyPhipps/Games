@@ -1,4 +1,5 @@
-# Pickleball Court Setup with 100-foot Measuring Tape
+# Pickleball Court Setup 
+with 100-foot Measuring Tape, Chalk Line, Chalk, and 3 People
 
 [![alt text](Court-layout-dimension-scaled.png)](https://www.flooringinc.com/blog/pickleball-court-conversion)
 
