@@ -15,6 +15,7 @@
 
 
 # Color Correction
+Option 1 (Crycry)
 - Color Mode: Epson Vivid
 - Brightness: 4
 - Contrast: 6
@@ -23,6 +24,11 @@
 - Magenta: -6 
 - Yellow: 2
 
+Option 2 (danyeaman)
+- Brightness 3
+- Contrast -3
+- Saturation 3
+- Density 3
 
 # Process
 - Build deck on Moxfield
