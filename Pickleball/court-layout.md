@@ -30,6 +30,7 @@ Now you are going to use the rest of the tape to form a V-shape that bridges acr
 7. When both conditions are true, the "far-end person" will be marking Corner C.
 
 ### Step 3: Do Step 2, but Mirrored, to find Corner D
+One small difference is that you'll mark at 48ft, 4in on the last corner.
 
 *(Math check: 92 feet 4 inches minus 44 feet leaves exactly 48 feet 4 inches for your diagonal).*
 
