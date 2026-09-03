@@ -30,6 +30,7 @@
 - How to get it:
   - Paraglide toward Hyrule Castle from the west/northwest into Princess Zelda's Study (the high tower with a bridge connecting to Zelda's Room).
   - Grab the bow sitting right on the desk/fireplace inside. You can glide in, grab it, and warp out in under 2 minutes without triggering any enemies.
+  - Respawns in Princess Zelda's Study in Hyrule Castle after every Blood Moon.
 </details>
 
 # Best Food/Meal Buffs
