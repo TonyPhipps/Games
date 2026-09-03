@@ -38,11 +38,21 @@
   <summary>Royal Guard's Bow (Highest Single-Shot Damage: 50 Damage)</summary>
 
 - Damage: 50 base damage.
-- Why it's great: Ties for the highest single-shot damage in the game. Durability is low, but it costs zero rupees, zero materials, and zero combat to grab.
+- Why it's great: Ties for the highest single-shot damage in the game. Durability is low, but it costs zero rupees, zero materials, and zero combat to grab. Respawns every Blood Moon.
 - How to get it:
   - Paraglide toward Hyrule Castle from the west/northwest into Princess Zelda's Study (the high tower with a bridge connecting to Zelda's Room).
   - Grab the bow sitting right on the desk/fireplace inside. You can glide in, grab it, and warp out in under 2 minutes without triggering any enemies.
-  - Respawns in Princess Zelda's Study in Hyrule Castle after every Blood Moon.
+</details>
+
+<details>
+  <summary>Woodland Tower Royal Bow (Zero Combat / Zero Crafting: 38 Damage)</summary>
+
+- Damage: 38 base damage + high durability.
+- Why it's great: Requires no materials or sneaking through Hyrule Castle. Respawns every Blood Moon.
+- How to get it:
+  - Warp to Woodland Tower.
+  - Climb onto the top of the giant stone skull resting on the tower platform.
+  - Pull the Royal Bow stuck in the top of the skull's head.
 </details>
 
 # Best Food/Meal Buffs
