@@ -21,3 +21,27 @@
 * **Exact Spot:** Buried in the mud next to an inert, decayed Guardian chassis on the eastern edge of the ruins.
 * **Quick Strategy:** Glide southeast from Central Tower into the garrison grounds. Keep an eye out for patrolling active Guardians nearby, sweep the dirt with Magnesis, and pull the chest out.
 </details>
+
+# Best Food/Meal Buffs
+- Max Health (+20 Yellow Hearts): Cook 5 Hearty Durians (found on the plateau right next to Faron Tower) together in a pot. Eating this single meal grants +20 extra hearts, capping your health bar at 30 without doing a single extra shrine.
+- 3x Attack Buff: Cook 5 Mighty Bananas for a 3x Attack Up meal (4:10 duration). If you have any Dragon Horn shards, cook 4 Bananas + 1 Horn Shard for a 30-minute 3x Attack Up buff.
+- 3x Defense Buff: Cook 5 Ironshrooms (found around Kakariko Village and West Necluda) or 5 Fortified Pumpkins together in a pot. Grants a Level 3 Defense Up buff (+24 flat defense, reducing damage taken by 6 full hearts per hit) for a 4:10 duration. If you have any Dragon Horn shards, cook 4 Ironshrooms + 1 Horn Shard for a 30-minute 3x Defense Up buff.
+
+
+# Defeating Monk Maz Koshia
+<details>
+  <summary>Food</summary>
+
+</details>
+
+<details>
+  <summary>Boss Tips</summary>
+
+  - Be sure your Master Sword is ready. It automatically charges to its glowing 60-damage state for the entirety of this boss fight, saving your other high-tier weapons.
+  
+  - Phase 1 Banana Distraction: Drop a single bundle of Mighty Bananas on the ground. Maz Koshia will break character, tiptoe over to inspect them, and leave himself open to a full free combo.
+  
+- Phase 2 Clone Shortcut: Trigger Urbosa's Fury to instantly destroy all duplicate clones at once. If out of charges, open your Camera Rune - only the real Maz Koshia will be highlighted by the camera frame.
+
+- Phase 3 Metal Balls: Use Magnesis to grab one of the giant spiked iron balls he drops, lift it near his head, and let his own lightning strike hit him.
+</details>
