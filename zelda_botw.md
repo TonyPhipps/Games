@@ -82,7 +82,7 @@
   - Korok Forest (Spore Store): Bought directly from the Spore Store inside the Great Deku Tree, or gathered around tree trunks throughout the surrounding forest.
 </details>
 
-# Defeating Monk Maz Koshia
+# BOSS: Monk Maz Koshia
 
 <details>
   <summary>Boss Tips</summary>
