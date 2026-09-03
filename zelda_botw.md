@@ -1,6 +1,6 @@
 # Early Game Setup
 <details>
-  <summary>Get Phantom Armor</summary>
+  <summary>Obtain Phantom Set Gear</summary>
   All three pieces of the Phantom Set are located in Central Hyrule inside EX-marked metallic treasure chests. You will need your **Magnesis Rune** to pull each chest out of the dirt or water.
 
 **1. Phantom Helmet**
