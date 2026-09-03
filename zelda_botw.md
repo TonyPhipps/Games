@@ -22,6 +22,18 @@
 * **Quick Strategy:** Glide southeast from Central Tower into the garrison grounds. Keep an eye out for patrolling active Guardians nearby, sweep the dirt with Magnesis, and pull the chest out.
 </details>
 
+# Best Bows
+<details>
+  <summary>Great Eagle Bow (Best Overall: 84 Damage)</summary>
+
+- Damage: 28 x 3 multi-shot (84 total damage per shot) + ultra-fast draw speed.
+- Why it's the best: Multi-shot bows shred bosses in bullet time, and this is the easiest high-tier multi-shot bow to acquire/maintain.
+- How to get/remake it:
+  - Warp to Sha Waro Shrine (Flight Range, north of Rito Village).
+  - Grab the free Swallow Bow sitting on the desk inside the Flight Range hut.
+  - Bring the Swallow Bow, 1 Diamond, and 5 Wood to Harth in Rito Village to craft it.
+</details>
+
 <details>
   <summary>Royal Guard's Bow (Highest Single-Shot Damage: 50 Damage)</summary>
 
