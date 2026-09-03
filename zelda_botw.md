@@ -22,6 +22,16 @@
 * **Quick Strategy:** Glide southeast from Central Tower into the garrison grounds. Keep an eye out for patrolling active Guardians nearby, sweep the dirt with Magnesis, and pull the chest out.
 </details>
 
+<details>
+  <summary>Royal Guard's Bow (Highest Single-Shot Damage: 50 Damage)</summary>
+
+- Damage: 50 base damage.
+- Why it's great: Ties for the highest single-shot damage in the game. Durability is low, but it costs zero rupees, zero materials, and zero combat to grab.
+- How to get it:
+  - Paraglide toward Hyrule Castle from the west/northwest into Princess Zelda's Study (the high tower with a bridge connecting to Zelda's Room).
+  - Grab the bow sitting right on the desk/fireplace inside. You can glide in, grab it, and warp out in under 2 minutes without triggering any enemies.
+</details>
+
 # Best Food/Meal Buffs
 <details>
   <summary>Max Health (+20 Yellow Hearts)</summary>
