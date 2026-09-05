@@ -77,8 +77,7 @@
   <summary>3x Defense Buff</summary>
   
 - Cook 5 Ironshrooms or 5 Fortified Pumpkins together in a pot. Grants a Level 3 Defense Up buff (+24 flat defense, reducing damage taken by 6 full hearts per hit) for a 4:10 duration. If you have any Dragon Horn shards, cook 4 Ironshrooms + 1 Horn Shard for a 30-minute 3x Defense Up buff.
-  - Kakariko Village: Growing around the bases of trees throughout the village, behind Impa's house, and surrounding Lantern Lake.
-  - Batrea Lake & West Necluda Woods: Dense clusters found at the bases of trees in the forest surrounding Batrea Lake (northeast of Dueling Peaks Stable) and the woods west of Fort Hateno.
+  - ​Batrea Lake (West Necluda): Located northwest of Dueling Peaks Tower. The forested areas surrounding the lake hold the highest density of wild Ironshrooms in the game. Searching around the base of the trees along the perimeter yields 15–20+ per visit.
   - Korok Forest (Spore Store): Bought directly from the Spore Store inside the Great Deku Tree, or gathered around tree trunks throughout the surrounding forest.
 </details>
 
