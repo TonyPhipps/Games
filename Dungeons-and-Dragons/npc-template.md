@@ -8,13 +8,16 @@
 - Hit Points: 
 - Speed: 
 
-
+Stats (Base 10)
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+|  .   |  |  |  |  |  |
+
 
 - Perception: 
 - Languages: 
 - XP Worth: 
 
-Actions
+Weapon:
+
+Attacks:
