@@ -2,19 +2,19 @@
 
 - Name: 
 - Size: 
-- Type: 
+- Race: 
 - Alignment: 
 - Armor Class: 
 - Hit Points: 
-- Speed: 
+- Speed:
 
 Stats (Base 10)
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 |  .   |  |  |  |  |  |
 
-
-- Perception: 
+- Initiative (DEX mod): 
+- Perception (WIS mod): 
 - Languages: 
 - XP Worth: 
 
